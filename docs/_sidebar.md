@@ -13,5 +13,6 @@
  - [HoloLens 官方文档选读](/hololens)
 
 - 关于
- - [关于 AR 设计俱乐部](/about)
+ - [关于 AR Design Club](/about)
  - [捐赠](/donate)
+ - [鸣谢](/thx)
