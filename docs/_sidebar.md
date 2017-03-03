@@ -10,7 +10,7 @@
  - [游戏与影视](/art)
  - [人物与团队](/team)
  - [会议与组织](/event)
- - [HoloLens 官方文档选读](/hololens)
+ - [HoloLens 专题](/hololens)
 
 - 关于
  - [关于 AR Design Club](/about)
