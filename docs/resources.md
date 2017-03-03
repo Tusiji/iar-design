@@ -25,13 +25,13 @@ HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行�
 
 [Rethinking Menu Design in the Natural Interface](http://blog.leapmotion.com/rethinking-menu-design-in-the-natural-interface-wild-west/)
 
-?> Leap Motion UX Team 对于 NUI 中菜单设计的思考。
+Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [Introduction to Motion Control](https://developer-archive.leapmotion.com/articles/intro-to-motion-control)
 
 [Learn how to design great conversational experiences](https://developers.google.com/actions/design/get-started)
 
-?> Google 语音交互设计文档。
+Google 语音交互设计文档。
 
 [AR/VR 的界面是否可沿用扁平化设计？](https://zhuanlan.zhihu.com/p/21408173)
 
@@ -59,13 +59,13 @@ HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行�
 ## 图书
 [Designing for Mixed Reality](http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)
 
-?> 从基本的概念开始讲，具体设计方式讲得不多。（可免费下载电子书）
+从基本的概念开始讲，具体设计方式讲得不多。（可免费下载电子书）
 
 [Design for Voice Interfaces](http://www.oreilly.com/design/free/design-for-voice-interfaces.csp)
 
 [增强现实技术导论](https://book.douban.com/subject/26839333/)
 
-?> 对于增强现实技术发展进行了详细的解读。
+对于增强现实技术发展进行了详细的解读。
 
 [三维用户界面：理论与实践](https://book.douban.com/subject/1792116/)
 
