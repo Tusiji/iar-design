@@ -4,12 +4,12 @@
 ## 设计文章
 [HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
 
-?> HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[简单的总结](https://zhuanlan.zhihu.com/p/20650838)。
+HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[简单的总结](https://zhuanlan.zhihu.com/p/20650838)。
 
 
 [HoloLens Design Patterns by 8ninths（推荐）](http://8ninths.com/hololens-design-patterns/)
 
-?> 一个 AR/VR 设计团队总结的 HoloLens 设计模式。
+一个 AR/VR 设计团队总结的 HoloLens 设计模式。
 
 
 [The UX Workflow for Hololens & Mixed Reality](https://hackernoon.com/the-ux-workflow-for-hololens-mixed-reality-3bf59192e577#.oe468shbn
@@ -46,37 +46,28 @@
 
 [Designing Outstanding Augmented Reality Experiences](https://www.slideshare.net/slideshow/embed_code/key/npcHXFGUAAmAPx)
 
-
 [Rapid Prototyping For Augmented Reality](https://www.slideshare.net/slideshow/embed_code/key/3Ud0Op5woCitAj)
 
-[Augmented Reality: The Next 20 Years]
-(https://www.slideshare.net/slideshow/embed_code/key/ke6w1BQwW359UT)
+[Augmented Reality: The Next 20 Years](https://www.slideshare.net/slideshow/embed_code/key/ke6w1BQwW359UT)
 
-[Empathic Glasses: Sharing Remote Gaze and Emotion]
-(https://www.slideshare.net/slideshow/embed_code/key/qwbhu2z0AtgNJy)
+[Empathic Glasses: Sharing Remote Gaze and Emotion](https://www.slideshare.net/slideshow/embed_code/key/qwbhu2z0AtgNJy)
 
-[Building AR and VR Experiences]
-(https://www.slideshare.net/slideshow/embed_code/key/Smu2qTm2L6Jpu)
+[Building AR and VR Experiences](https://www.slideshare.net/slideshow/embed_code/key/Smu2qTm2L6Jpu)
 
-[8ninths HoloLens Design Patterns]
-(https://www.slideshare.net/8ninths/8ninths-hololens-design-patterns)
+[8ninths HoloLens Design Patterns](https://www.slideshare.net/8ninths/8ninths-hololens-design-patterns)
 
 ## 图书
-[Designing for Mixed Reality]
-(http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)
+[Designing for Mixed Reality](http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)
 
 ?> 从基本的概念开始讲，具体设计方式讲得不多。（可免费下载电子书）
 
-[Design for Voice Interfaces]
-(http://www.oreilly.com/design/free/design-for-voice-interfaces.csp)
+[Design for Voice Interfaces](http://www.oreilly.com/design/free/design-for-voice-interfaces.csp)
 
-[增强现实技术导论]
-(https://book.douban.com/subject/26839333/)
+[增强现实技术导论](https://book.douban.com/subject/26839333/)
 
 ?> 对于增强现实技术发展进行了详细的解读。
 
-[三维用户界面：理论与实践]
-(https://book.douban.com/subject/1792116/)
+[三维用户界面：理论与实践](https://book.douban.com/subject/1792116/)
 
 
 ## 视频
@@ -87,21 +78,16 @@
 )（中文字幕）
 
 
-[The Dawn of the Age of Holograms - Alex Kipman]
-(https://www.youtube.com/watch?v=jGOE8q1mH3M)（中文字幕）
+[The Dawn of the Age of Holograms - Alex Kipman](https://www.youtube.com/watch?v=jGOE8q1mH3M)（中文字幕）
 
 
-[What's New with Project Tango - Google I/O 2016]
-(https://www.youtube.com/watch?v=yvgPrZNp4So)
+[What's New with Project Tango - Google I/O 2016](https://www.youtube.com/watch?v=yvgPrZNp4So)
 
-[VR Interface Design Pre-Visualisation Methods]
-(https://www.youtube.com/watch?v=id86HeV-Vb8&t=2s)
+[VR Interface Design Pre-Visualisation Methods](https://www.youtube.com/watch?v=id86HeV-Vb8&t=2s)
 
-[VR Design Process - Google I/O 2016]
-(https://www.youtube.com/watch?v=-mcXAMDch7s)
+[VR Design Process - Google I/O 2016](https://www.youtube.com/watch?v=-mcXAMDch7s)
 
-[Daydream Labs: Lessons Learned from VR Prototyping - Google I/O 2016]
-(https://www.youtube.com/watch?v=lGUmTQgbiAY)
+[Daydream Labs: Lessons Learned from VR Prototyping - Google I/O 2016](https://www.youtube.com/watch?v=lGUmTQgbiAY)
 
 
 
