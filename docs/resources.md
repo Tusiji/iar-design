@@ -9,11 +9,10 @@ HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行�
 
 [HoloLens Design Patterns by 8ninths（推荐）](http://8ninths.com/hololens-design-patterns/)
 
-一个 AR/VR 设计团队总结的 HoloLens 设计模式。
+来自 AR/VR 设计团队 8ninths 总结的 HoloLens 设计模式。
 
 
-[The UX Workflow for Hololens & Mixed Reality](https://hackernoon.com/the-ux-workflow-for-hololens-mixed-reality-3bf59192e577#.oe468shbn
-)
+[The UX Workflow for Hololens & Mixed Reality](https://hackernoon.com/the-ux-workflow-for-hololens-mixed-reality-3bf59192e577#.oe468shbn)
 
 [Prototyping for Augmented Reality](https://medium.com/momentary-exploration/prototyping-for-augmented-reality-ffc724a679b2#.4zo1kjahy)
 

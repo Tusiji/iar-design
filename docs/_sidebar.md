@@ -4,7 +4,7 @@
 
 - AR 设计学习资源
  - [文档资源](/resources)
- - [AR 硬件产品汇总](/hardware)
+ - [AR 硬件产品](/devices)
  - [AR 开发工具](/devtools)
  - [其他软件工具和资源](/software)
  - [游戏与影视](/art)
