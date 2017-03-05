@@ -5,7 +5,9 @@
 
 [Hololens](https://www.microsoft.com/microsoft-hololens/en-us)
 
-目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛B。内容方面支持原生 Holographic app，扩展支持 WUP。
+目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛B。内容方面支持原生 Holographic app，扩展支持 UWP。
+
+?> FOV，全称 Field of View，视场角。
 
 [Google Glass](https://developers.google.com/glass/distribute/glass-at-work)
 
@@ -52,7 +54,7 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
 
 [MIT Sixth Sense](http://www.pranavmistry.com/projects/sixthsense/)
 
-AR 投影仪专装置。
+AR 投影仪装置，支持手势交互（通过特殊标识）。
 
 [Leap Motion](https://www.leapmotion.com/)
 
