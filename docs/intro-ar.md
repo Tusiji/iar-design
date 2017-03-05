@@ -9,3 +9,13 @@
 
 
 ## AR 跟 VR 的区别
+
+> AR：把虚拟物体放在你周围
+> VR：把你放在虚拟的环境里
+
+*-[Belleve](https://www.zhihu.com/question/24128481/answer/92595129)*
+
+这非常简单粗暴地说明 AR 和 VR 的工作原理，这也是两者最大的区别之一。
+
+### 延伸阅读：
+- [AR装备和VR装备的区别？](https://www.zhihu.com/question/24128481/answer/106155090)
