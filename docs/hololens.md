@@ -22,3 +22,6 @@ Hololens 可以兼容 UWP，所以尽管是开发 HoloLens app，官方也建议
 
 [Windows Device Portal](https://developer.microsoft.com/en-us/windows/mixed-reality/Using_the_Windows_Device_Portal.html)
 
+## 案例展示
+
+官网案例视频，[访问这里查看](https://www.microsoft.com/microsoft-hololens/en-us/developers)。*（打开后向下浏览）
