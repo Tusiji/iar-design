@@ -1,3 +1,5 @@
+# 人物与团队
+
 [Mark Billinghurst](https://www.linkedin.com/in/mark-billinghurst-4a636/) - Director at HIT Lab NZ
 
 [Hirokazu Kato](http://imd.naist.jp/imdweb_wp/people/hirokazu-kato/) - Original developer of ARToolKit
@@ -9,7 +11,7 @@
 [Tom Chi](https://www.linkedin.com/in/thegoodtomchi/) - Fromer Head of Experience at Google X
 
 
-[Alex Kipman](https://www.linkedin.com/in/akipman/)- Technical Fellow - Operating System Group at Microsoft（男神！）
+[Alex Kipman](https://www.linkedin.com/in/akipman/)　- Technical Fellow - Operating System Group at Microsoft（男神！）
 
 
 [Joshua Walton](https://www.linkedin.com/in/thisnewmedia/) - Principal Designer at Microsoft HoloLens
