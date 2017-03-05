@@ -5,7 +5,11 @@
 
 [Hololens](https://www.microsoft.com/microsoft-hololens/en-us)
 
+目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛B。内容方面支持原生 Holographic app，扩展支持 WUP。
+
 [Google Glass](https://developers.google.com/glass/distribute/glass-at-work)
+
+虽然前途不明朗，但依旧是一个里程碑式的存在！！！
 
 [HiAR Glasses](https://www.hiscene.com/detail-glasses/)
 
@@ -16,6 +20,8 @@
 [Meta](https://www.metavision.com/)
 
 [castAR](http://castar.com/)
+
+[Infinity AR](http://www.infinityar.com/zh)
 
 [Lumus](http://lumusvision.com/)
 
@@ -35,7 +41,7 @@
 
 [Magic Leap](https://www.magicleap.com/)
 
-Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是穿戴式头盔设备。
+Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是穿戴式头盔设备，勉强算在这里吧。
 
 
 ## 智能手机和智能交互硬件

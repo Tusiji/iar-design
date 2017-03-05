@@ -4,12 +4,12 @@
 ## 设计文章
 [HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
 
-▲ HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[简单的总结](https://zhuanlan.zhihu.com/p/20650838)。
+HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[简单的总结](https://zhuanlan.zhihu.com/p/20650838)。
 
 
 [HoloLens Design Patterns by 8ninths（推荐）](http://8ninths.com/hololens-design-patterns/)
 
-▲ 来自 AR/VR 设计团队 8ninths 总结的 HoloLens 设计模式。
+来自 AR/VR 设计团队 8ninths 总结的 HoloLens 设计模式。
 
 
 [The UX Workflow for Hololens & Mixed Reality](https://hackernoon.com/the-ux-workflow-for-hololens-mixed-reality-3bf59192e577#.oe468shbn)
@@ -24,13 +24,13 @@
 
 [Rethinking Menu Design in the Natural Interface](http://blog.leapmotion.com/rethinking-menu-design-in-the-natural-interface-wild-west/)
 
-▲ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
+Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [Introduction to Motion Control](https://developer-archive.leapmotion.com/articles/intro-to-motion-control)
 
 [Learn how to design great conversational experiences](https://developers.google.com/actions/design/get-started)
 
-▲ Google 语音交互设计文档。
+Google 语音交互设计文档。
 
 [AR/VR 的界面是否可沿用扁平化设计？](https://zhuanlan.zhihu.com/p/21408173)
 
