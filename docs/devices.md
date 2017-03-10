@@ -11,9 +11,11 @@
 
 [Google Glass](https://developers.google.com/glass/distribute/glass-at-work)
 
-虽然前途不明朗，但依旧是一个里程碑式的存在！！！
+虽然 Google Glass 现在已经没有什么起色，但在智能穿戴式设备上依旧是里程碑式的存在。
 
 [HiAR Glasses](https://www.hiscene.com/detail-glasses/)
+
+国内首款双目 AR 眼镜，目前已经发布第二代产品。
 
 [ODG](http://www.osterhoutgroup.com/home)
 
@@ -28,6 +30,8 @@
 [Lumus](http://lumusvision.com/)
 
 [Opinvent](http://www.optinvent.com/)
+
+[Sony Smart Eye glass](https://developer.sonymobile.com/products/smarteyeglass/)
 
 [Epson Moverio](https://epson.com/moverio-augmented-reality-smart-glasses)
 
@@ -46,17 +50,36 @@
 Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是穿戴式头盔设备，勉强算在这里吧。
 
 
-## 智能手机和智能交互硬件
+## 智能手机
 
 [Google Project Tango](https://get.google.com/tango/)
 
 Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
 
+## 智能投影仪
+
 [MIT Sixth Sense](http://www.pranavmistry.com/projects/sixthsense/)
 
 AR 投影仪装置，支持手势交互（通过特殊标识）。
 
+[Sony Portable Ultra Short Throw Projector](http://www.sony.com/electronics/projector/lspx-p1)
+
+这个投影仪好像已经改进了ID，兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的原型机，可以用手进行交互。
+
+## 智能交互硬件
+
 [Leap Motion](https://www.leapmotion.com/)
 
+流行的手势交互硬件，可支持多平台和硬件。
+
 [Google Project Soli](https://atap.google.com/soli/)
+
+算是 Leap Motion 的补充，专注于手指间的微交互识别和响应。
+
+## 场景重建/3D 扫描硬件
+
+[Kinect](https://developer.microsoft.com/en-us/windows/kinect)
+
+[Structure Sensor](https://structure.io/)
+
 
