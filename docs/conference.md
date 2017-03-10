@@ -14,4 +14,4 @@
 
 [insideAR](https://en.wikipedia.org/wiki/InsideAR)
 
-好像已经取消了。
+此会议貌似已经取消了。
