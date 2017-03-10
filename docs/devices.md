@@ -62,9 +62,9 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
 
 AR 投影仪装置，支持手势交互（通过特殊标识）。
 
-[Sony Portable Ultra Short Throw Projector](http://www.sony.com/electronics/projector/lspx-p1)
+[Sony Xperia Touch](https://www.sonymobile.com/global-en/products/smart-products/xperia-touch/)
 
-这个投影仪好像已经改进了ID，兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的原型机，可以用手进行交互。
+这个投影仪好像已经改进了ID，跟兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的。当时还是隶属于 Life Space UX 产品线，现在已经划为 Xperia 了。
 
 ## 智能交互硬件
 
