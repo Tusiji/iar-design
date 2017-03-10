@@ -14,6 +14,7 @@
 
 - 关于
  - [关于 AR Design Club](/about)
- - [感谢](/thx)
  - [捐赠](/donate)
+ - [感谢](/thx)
+ 
  
