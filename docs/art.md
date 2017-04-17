@@ -12,7 +12,7 @@ PS：因为内容实在太多，兔斯霁随机挑选了一些。
 
 [Fragments](https://www.microsoft.com/microsoft-hololens/en-us/apps/Fragments)
 
-《Fragments》是专门为 HoloLens 打造的 AR 游戏，视觉效果非常棒，体验很有沉浸感。（比那些 VR 游戏不知道高到哪里去！）
+《Fragments》是专门为 HoloLens 打造的 AR 游戏，视觉效果非常棒，体验很有沉浸感。为此，兔斯霁也专门录制了该游戏的[通关视频](http://www.bilibili.com/video/av9456383/)，比那些 VR 游戏不知道高到哪里去！
 
 [The Playroom™](https://www.playstation.com/en-us/games/the-playroom-ps4/)
 
