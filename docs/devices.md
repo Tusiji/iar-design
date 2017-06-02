@@ -3,7 +3,7 @@
 
 ?> 大部分眼镜设备可能还只是停留在“头戴式演示器”的水平，无法达到 HoloLens 那样的效果。
 
-## 智能眼镜
+## 智能眼镜/头盔
 
 [Hololens](https://www.microsoft.com/microsoft-hololens/en-us)
 
@@ -54,6 +54,8 @@
 [Magic Leap](https://www.magicleap.com/)
 
 Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是穿戴式头盔设备，勉强算在这里吧。
+
+[联想 New Glass](http://www.lenovo-ar.com/c200.html)
 
 
 ## 智能手机
