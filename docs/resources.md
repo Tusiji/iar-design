@@ -16,7 +16,7 @@ HoloLens 官方的案例学习资源，列举了包括 HoloStudio、Fragments、
 
 [Meta Spatial Interface Design:Guidelines for Designing & Developing in AR](https://pages.metavision.com/meta-augmented-reality-design-guidelines)
 
-[ODG Glasses System UI Overview][https://developer.osterhoutgroup.com/hc/en-us/articles/209732026-UI-Overview]
+[ODG Glasses System UI Overview](https://developer.osterhoutgroup.com/hc/en-us/articles/209732026-UI-Overview)
 
 [Learn how to design great conversational experiences](https://developers.google.com/actions/design/get-started)
 
