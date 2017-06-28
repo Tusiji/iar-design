@@ -57,12 +57,17 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 
 [联想 New Glass](http://www.lenovo-ar.com/c200.html)
 
+[Apple 的 AR 眼镜](#)
+
+各种新闻都在猜测 Apple 也正在搞 AR 眼镜，至少硬件供应链那边已经有些风声了。
+
 
 ## 智能手机
 
 [Google Project Tango](https://get.google.com/tango/)
 
 Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
+
 
 ## 智能投影仪
 
@@ -89,10 +94,18 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。
 
 算是 Leap Motion 的补充，专注于手指间的微交互识别和响应。
 
+[SMI Eye Tracking](https://www.smivision.com/)
+
+德国眼球追踪眼镜制造商 SensoMotoric Instruments，现在团队已经被 Apple 收购。
+
+
 ## 场景重建/3D 扫描硬件
 
 [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
 
 [Structure Sensor](https://structure.io/)
+
+
+
 
 
