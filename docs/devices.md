@@ -57,9 +57,29 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 
 [联想 New Glass](http://www.lenovo-ar.com/c200.html)
 
+[联想晨星 AR 眼镜](http://cn.technode.com/post/2017-07-20/lenovo-daystar/)
+
+联想在 TechWorld 大会上发布 AR 眼镜，从 Demo 看具备手势识别，空间识别就不知道了。
+
 [Apple 的 AR 眼镜](#)
 
 各种新闻都在猜测 Apple 也正在搞 AR 眼镜，至少硬件供应链那边已经有些风声了。
+
+
+## AR 盒子
+
+[HoloKit](https://holokit.io/)
+
+VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前与网易合作进入了中国市场。
+
+[Aryzon](https://aryzon.com/)
+
+[ZapBox](https://www.zappar.com/zapbox/)
+
+[Mira Prism](https://www.mirareality.com/)
+
+[Seebright](https://seebright.com/)
+
 
 
 ## 智能手机
@@ -67,6 +87,7 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 [Google Project Tango](https://get.google.com/tango/)
 
 Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
+
 
 
 ## 智能投影仪

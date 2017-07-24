@@ -31,3 +31,7 @@
 [Snapchat](https://www.snapchat.com/)
 
 最早基于人脸检测做了的“吐彩虹”效果，现在已经具备蛮强的 SLAM 技术，强烈推荐一定要玩。
+
+[美图秀秀](https://itunes.apple.com/cn/app/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80/id416048305?mt=8)
+
+主要以人脸 AR 效果为主。

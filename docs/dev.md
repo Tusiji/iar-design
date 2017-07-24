@@ -34,3 +34,5 @@ Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快�
 
 ## AR 开发入门教程
 兔斯霁将以 HiAR SDK 为例，手把手教你开发一个非常简单的 AR 应用。
+
+不过兔斯霁一直挖了坑没填上，所以向大家推荐来自网友 ChungYun Lee 的教程，[去B站查看](http://www.bilibili.com/video/av10976373/)
