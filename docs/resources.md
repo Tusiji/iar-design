@@ -4,7 +4,7 @@
 
 [HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
 
-HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[文字总结](https://zhuanlan.zhihu.com/p/20650838)和[视频总结](http://www.bilibili.com/video/av9643999/)。
+HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[文字总结](https://zhuanlan.zhihu.com/p/20650838)和[视频总结](http://www.bilibili.com/video/av9643999/)。微软在7月份大幅度更新了这份设计文档，兔斯霁也在阅读之后进行了[一些汇总](https://zhuanlan.zhihu.com/p/27647579)。
 
 [HoloLens Case studies](https://developer.microsoft.com/en-us/windows/holographic/case_studies)
 
@@ -12,7 +12,7 @@ HoloLens 官方的案例学习资源，列举了包括 HoloStudio、Fragments、
 
 [Google Glass Design](https://developers.google.com/glass/design/principles)
 
-虽然 Google 已经逐步放弃了 Glass 这款产品，但是之前的一些设计文档还是值得参考的。
+虽然 Google 已经逐步放弃了 Glass 这款产品，但是之前的一些设计文档还是值得参考的。不过值得高兴的是 Google Glass 再次回归啦，主打商业客户。
 
 [Meta Spatial Interface Design:Guidelines for Designing & Developing in AR](https://pages.metavision.com/meta-augmented-reality-design-guidelines)
 
@@ -53,6 +53,14 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 [VR Best Practices Guidelines](https://developer-archive.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf)
 
 [从计算机视觉的角度漫谈增强现实](https://zhuanlan.zhihu.com/p/21450518)
+
+[「AR 学了4年半」 如何设计 AR 眼镜软件产品](https://zhuanlan.zhihu.com/p/27894902)
+
+[My first year on the HoloLens design team](https://developer.microsoft.com/en-us/windows/mixed-reality/case_study_-_my_first_year_on_the_hololens_design_team)
+
+[AfterNow's process - envisioning, prototyping, building](https://developer.microsoft.com/en-us/windows/mixed-reality/case_study_-_afternow%27s_process_-_envisioning,_prototyping,_building)
+
+
 
 
 ## Slides
