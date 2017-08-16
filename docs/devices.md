@@ -3,17 +3,13 @@
 
 ?> 大部分眼镜设备可能还只是停留在“头戴式演示器”的水平，无法达到 HoloLens 那样的效果。
 
-## 智能眼镜/头盔
+## 双目智能眼镜/头盔
 
 [Hololens](https://www.microsoft.com/microsoft-hololens/en-us)
 
-目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛B。内容方面支持原生 Holographic app，扩展支持 UWP。
+目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛逼。内容方面支持原生 Holographic app，扩展支持 UWP。目前业界最高水准！
 
 ?> FOV，全称 Field of View，视场角。
-
-[Google Glass](https://developers.google.com/glass/distribute/glass-at-work)
-
-虽然 Google Glass 现在已经没有什么起色，但在智能穿戴式设备上依旧是里程碑式的存在。
 
 [HiAR Glasses](https://www.hiscene.com/detail-glasses/)
 
@@ -31,31 +27,21 @@
 
 [Meta](https://www.metavision.com/)
 
-[castAR](http://castar.com/)
-
-[Infinity AR](http://www.infinityar.com/zh)
+[castAR(已死)](http://castar.com/)
 
 [Lumus](http://lumusvision.com/)
 
-[Opinvent](http://www.optinvent.com/)
+强项是光学镜片，也自己做了几款开发版眼镜。
 
 [Sony Smart Eye glass](https://developer.sonymobile.com/products/smarteyeglass/)
 
 [DAQRI](https://daqri.com/)
-
-[coolGlass](http://www.coolglass.com/en/)
-
-[Recon Jet](http://www.reconinstruments.com/products/jet/)
-
-[Vuzix](https://www.vuzix.com/)
 
 [GlassUp](http://www.glassup.net/en/)
 
 [Magic Leap](https://www.magicleap.com/)
 
 Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是穿戴式头盔设备，勉强算在这里吧。
-
-[联想 New Glass](http://www.lenovo-ar.com/c200.html)
 
 [联想晨星 AR 眼镜](http://cn.technode.com/post/2017-07-20/lenovo-daystar/)
 
@@ -64,6 +50,28 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 [Apple 的 AR 眼镜](#)
 
 各种新闻都在猜测 Apple 也正在搞 AR 眼镜，至少硬件供应链那边已经有些风声了。
+
+[微软 MR 设备](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-mixed-reality)
+
+这个不是 AR 设备，但是也从属于微软的 MR 平台，值得留意。
+
+
+## 单目智能眼镜（单显示屏）
+
+[Google Glass](https://developers.google.com/glass/distribute/glass-at-work)
+
+于2012年6月发布，虽然 Google Glass 现在已经没有什么起色，但在智能穿戴式设备上依旧是里程碑式的存在。在沉寂多年之后，2017年下旬又通过企业版的形式重新复活。
+
+[Opinvent](http://www.optinvent.com/)
+
+[coolGlass(已死)](http://www.coolglass.com/en/)
+
+[Recon Jet](http://www.reconinstruments.com/products/jet/)
+
+[Vuzix](https://www.vuzix.com/)
+
+[联想 New Glass](http://www.lenovo-ar.com/c200.html)
+
 
 
 ## AR 盒子
