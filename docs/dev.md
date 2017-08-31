@@ -15,6 +15,10 @@ AR 应用的开发，可以很难，也可以很简单。目前，市面上也�
 
 Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快速稳定的运动定位、平面和边界的估计等功能。之前的同事第一时间写了一篇简单的评价，[点击这里](https://www.zhihu.com/question/60726864/answer/179446682)查看。
 
+[Google ARCore](https://developers.google.com/ar/)
+
+Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基本对飙 ARKit。（Google Tango 表示尴尬了）
+
 [HiAR SDK](https://www.hiscene.com/sdk/)
 
 国内技术团队[亮风台](http://www.hiscene.com)发布的 AR SDK，中文化支持和文档。
