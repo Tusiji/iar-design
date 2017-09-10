@@ -47,13 +47,15 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 
 联想在 TechWorld 大会上发布 AR 眼镜，从 Demo 看具备手势识别，空间识别就不知道了。
 
+[影创科技](http://www.shadowcreator.com/home.html)
+
 [Apple 的 AR 眼镜](#)
 
 各种新闻都在猜测 Apple 也正在搞 AR 眼镜，至少硬件供应链那边已经有些风声了。
 
 [微软 MR 设备](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-mixed-reality)
 
-这个不是 AR 设备，但是也从属于微软的 MR 平台，值得留意。
+这个不是 AR 设备，但是也从属于微软的 MR 平台，还是值得留意。
 
 
 ## 单目智能眼镜（单显示屏）
@@ -88,6 +90,9 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 
 [Seebright](https://seebright.com/)
 
+[Lenovo Mirage AR headset](http://www3.lenovo.com/us/en/jedichallenges)
+
+联想结合星球大战这个 IP 搞的一套“高级版”AR 盒子。为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算。除此之外，还配套有控制装置（光剑）和定位跟踪的外设。
 
 
 ## 智能手机

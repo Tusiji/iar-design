@@ -16,7 +16,7 @@ HoloLens 官方的案例学习资源，列举了包括 HoloStudio、Fragments、
 
 [iOS Human Interface Guidelines for AR](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
 
-Apple 为 ARKit 推出了相关的设计文档。
+Apple 为 ARKit 推出了相关的设计文档。非官方的[中文翻译](https://zhuanlan.zhihu.com/p/29039144)已经出了。
 
 [Meta Spatial Interface Design:Guidelines for Designing & Developing in AR](https://pages.metavision.com/meta-augmented-reality-design-guidelines)
 
@@ -103,7 +103,6 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [Rapid prototyping Google Glass - Tom Chi](https://www.youtube.com/watch?v=d5_h1VuwD6g
 )（中文字幕）
-
 
 [The Dawn of the Age of Holograms - Alex Kipman](https://www.youtube.com/watch?v=jGOE8q1mH3M)（中文字幕）
 

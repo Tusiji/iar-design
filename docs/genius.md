@@ -2,6 +2,7 @@
 
 [Mark Billinghurst](https://www.linkedin.com/in/mark-billinghurst-4a636/) - Director at HIT Lab NZ
 
+
 [Hirokazu Kato](http://imd.naist.jp/imdweb_wp/people/hirokazu-kato/) - Original developer of ARToolKit
 
 
@@ -12,6 +13,9 @@
 
 
 [Alex Kipman](https://www.linkedin.com/in/akipman/)　- Technical Fellow - Operating System Group at Microsoft（男神！）
+
+
+[Johnny Lee](https://www.linkedin.com/in/johnnychunglee/) - Technical Program Lead at Google/Motorola(Tango 项目负责人)
 
 
 [Joshua Walton](https://www.linkedin.com/in/thisnewmedia/) - Principal Designer at Microsoft HoloLens

@@ -18,13 +18,21 @@
 
 [Ubimax](http://www.ubimax.de/index.php/en/)
 
-[Vuforia Project Chalk](https://developer.vuforia.com/projectchalk)
-
-来自 Vuforia 的远程协助产品，提供 AR 实时标注等功能。其实手机 QQ 中的也有“类似”的功能，只不过没有任何跟踪效果。
-
 [联想 AHCloud](http://www.lenovo-ar.com/ahcloud.html)
 
 联想的企业 AR 服务平台，全称 Augmented Human Cloud，包含远程协作、工作流指定、3D展示、识别等模块。联想在 AWE 2017 与 Wikitude 上达成了近一步的合作。
+
+## 远程协作
+
+这类产品是目前 AR 设备中经常被拿来背书的功能。
+
+[Skype on HoloLens](https://www.microsoft.com/en-us/hololens/apps/skype)
+
+Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，还可以实时在空间中绘制标示、箭头，摆放图片等。
+
+[Vuforia Project Chalk](https://developer.vuforia.com/projectchalk)
+
+来自 Vuforia 的远程协助产品，提供 AR 实时标注等功能。其实手机 QQ 中的也有“类似”的功能，只不过没有任何跟踪效果。
 
 ## 社交&摄影
 

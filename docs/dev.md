@@ -39,6 +39,11 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 Infinity 目前没有公开版的 SDK。
 
+[太虚 AR SDK](https://www.voidar.net/)
+
+[网易洞见SDK](http://dongjian.163.com/sdk.html)
+
+
 
 ## AR 开发入门教程
 兔斯霁将以 HiAR SDK 为例，手把手教你开发一个非常简单的 AR 应用。
