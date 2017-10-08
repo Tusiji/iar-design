@@ -4,6 +4,8 @@
 
 ## 官方文档摘选
 
+[HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
+
 [Microsoft UWP 官方设计指南](https://developer.microsoft.com/en-us/windows/apps/design)
 
 Hololens 可以兼容 UWP，所以尽管是开发 HoloLens app，官方也建议阅读此文档。
@@ -18,7 +20,7 @@ Hololens 可以兼容 UWP，所以尽管是开发 HoloLens app，官方也建议
 
 [将 UWP 升级为 HoloLens app](https://developer.microsoft.com/en-us/windows/mixed-reality/updating_your_existing_universal_app_for_hololens)
 
-[App Views on HoloLens](https://developer.microsoft.com/en-us/windows/mixed-reality/app_views_on_hololens)
+[App Views on HoloLens](https://developer.microsoft.com/en-us/windows/mixed-reality/app_views)
 
 [HoloLens 导航说明(推荐)](https://developer.microsoft.com/en-us/windows/mixed-reality/navigating_the_windows_mixed_reality_home)
 

@@ -68,7 +68,7 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 
 [coolGlass(已死)](http://www.coolglass.com/en/)
 
-[Recon Jet](http://www.reconinstruments.com/products/jet/)
+[Recon(已被 Intel 放弃)](http://www.reconinstruments.com/products/jet/)
 
 [Vuzix](https://www.vuzix.com/)
 
@@ -92,7 +92,7 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 
 [Lenovo Mirage AR headset](http://www3.lenovo.com/us/en/jedichallenges)
 
-联想结合星球大战这个 IP 搞的一套“高级版”AR 盒子。为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算。除此之外，还配套有控制装置（光剑）和定位跟踪的外设。
+联想结合星球大战这个 IP 搞的一套“高级版”AR 盒子。为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算。除此之外，还配套有控制装置（光剑）和定位跟踪的外设。
 
 
 ## 智能手机
@@ -101,6 +101,9 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 
 Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
 
+[iPhone X](https://www.apple.com/cn/iphone-x/)
+
+利用“原深感摄像头”实现的 FaceID之外，还可以实现“动话表情”，轻松捕捉用户面部运动和表情。背部竖直排列的双摄像头，也许除了拍照的人像模式之外，还会有更多适用于 AR 的应用场景。
 
 
 ## 智能投影仪
