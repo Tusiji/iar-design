@@ -28,7 +28,21 @@
     subMaxLevel: 2,
     loadSidebar: true,
     auto2top: true,
-    formatUpdated: '{MM}/{DD} {HH}:{mm}' 
+    formatUpdated: '{MM}/{DD} {HH}:{mm}',
+    plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function (html) {
+            var url = 'https://github.com/Tusiji/ar-design-club/tree/master/docs' + vm.route.file
+            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+  
+            return editHtml
+              + html
+              + '\n----\n'
+              + 'Last modified {docsify-updated} '
+              + editHtml
+          })
+        }
+      ] 
   }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
