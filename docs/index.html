@@ -28,7 +28,7 @@
     subMaxLevel: 2,
     loadSidebar: true,
     auto2top: true,
-    formatUpdated: '{MM}/{DD} {HH}:{mm}',
+    formatUpdated: '{YYYY}-{MM}-{DD}',
     plugins: [
         function(hook, vm) {
           hook.beforeEach(function (html) {
@@ -38,8 +38,7 @@
             return editHtml
               + html
               + '\n----\n'
-              + 'Last modified {docsify-updated} '
-              + editHtml
+              + '最后更新 {docsify-updated} '
           })
         }
       ] 
