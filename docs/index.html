@@ -27,21 +27,7 @@
     maxLevel: 4,
     subMaxLevel: 2,
     loadSidebar: true,
-    auto2top: true,
-    formatUpdated: '{YYYY}-{MM}-{DD}',
-    plugins: [
-        function(hook, vm) {
-          hook.beforeEach(function (html) {
-            var url = 'https://github.com/Tusiji/ar-design-club/tree/master/docs' + vm.route.file
-            var editHtml
-  
-            return editHtml
-              + html
-              + '\n----\n'
-              + '最后更新 {docsify-updated} '
-          })
-        }
-      ] 
+    auto2top: true
   }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
