@@ -124,3 +124,6 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [VR、AR 的一百种可能性 - Google Daydream 张晶华](http://music.163.com/#/program?id=909031320)
 
+## 其他 AR 相关文章
+
+[ARKit and ARCore will not usher massive adoption of mobile AR - Ori Inbar](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad) ([中文翻译](https://zhuanlan.zhihu.com/p/31554868))

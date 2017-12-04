@@ -5,6 +5,7 @@
 
 [Hirokazu Kato](http://imd.naist.jp/imdweb_wp/people/hirokazu-kato/) - Original developer of ARToolKit
 
+[Ori Inbar](https://www.linkedin.com/in/oriinbar) - CoFounder of Ogmento, AWE, Super Ventures
 
 [Doug A. Bowman](https://research.cs.vt.edu/3di/user/123) - Director of the Center for Human-Computer Interaction at Virginia Tech
 
