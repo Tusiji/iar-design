@@ -43,3 +43,11 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 [美图秀秀](https://itunes.apple.com/cn/app/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80/id416048305?mt=8)
 
 主要以人脸 AR 效果为主。
+
+[Animoji](https://www.youtube.com/watch?v=Kkq8a6AV3HM)
+
+Apple 随 iPhone X 发布的一个人脸表情功能，利用自带的深感摄像头采集用户的面部并匹配表情符号展示。
+
+[AR Sticker on Pixel camera](https://www.youtube.com/watch?v=DoS7VwKd0Ys)
+
+Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以将虚拟的物体叠加到现实空间。自带多个IP的素材。
