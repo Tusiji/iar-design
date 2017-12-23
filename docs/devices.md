@@ -57,6 +57,9 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 
 这个不是 AR 设备，但是也从属于微软的 MR 平台，还是值得留意。
 
+[Magic Leap one](https://www.magicleap.com/)
+
+饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的设备，2018年早期还将推出内容创作平台你。
 
 ## 单目智能眼镜（单显示屏）
 
