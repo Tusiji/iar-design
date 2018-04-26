@@ -30,6 +30,11 @@ Google 语音交互设计文档。
 
 微软新一代的视觉设计系统，对 AR 界面的设计有很大的影响（至少是对于 HoloLens 或者 Mixed Reality 平台来说）。目前内容还比较少，但是我们至少可以在 HoloLens 中窥探一下。参考阅读：《[在 HoloLens 中窥探 Fluent Design System](https://zhuanlan.zhihu.com/p/26877591)》
 
+[Magic Leap: Designing for Spatial Computing Overview](https://creator.magicleap.com/learn/guides/designing-for-spatial-computing-landing)
+
+Magic Leap 官方文档中关于设计的指南，原文主要登录查看。[中文翻译点这里](doc-magic-leap-design)
+
+
 ## 设计文章
 
 [HoloLens Design Patterns by 8ninths（推荐）](http://8ninths.com/hololens-design-patterns/)
