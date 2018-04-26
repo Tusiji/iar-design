@@ -3,9 +3,11 @@
 
 <br>
 
+# Magic Leap 空间计算设计概览 {docsify-ignore-all}
+
 > 本文是[ Magic leap 官方文档](https://creator.magicleap.com/learn/guides/designing-for-spatial-computing-landing)中关于设计的指南。全文 8880 字，阅读需要约 10 分钟<br>作者：Goya
 
-# 【译文】Magic Leap 空间计算设计概览 {docsify-ignore-all}
+<br>
 
 ## 空间计算概览 
 空间计算（spatial computing）是指无缝地混合数字世界和现实世界，让两个世界可以相互感知、理解和交互，创造前所未有的体验。
