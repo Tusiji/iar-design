@@ -27,6 +27,8 @@
 
 [Meta](https://www.metavision.com/)
 
+Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)
+
 [castAR(已死)](http://castar.com/)
 
 [Lumus](http://lumusvision.com/)
@@ -39,13 +41,9 @@
 
 [GlassUp](http://www.glassup.net/en/)
 
-[Magic Leap](https://www.magicleap.com/)
-
-Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是穿戴式头盔设备，勉强算在这里吧。
-
 [联想晨星 AR 眼镜](http://cn.technode.com/post/2017-07-20/lenovo-daystar/)
 
-联想在 TechWorld 大会上发布 AR 眼镜，从 Demo 看具备手势识别，空间识别就不知道了。
+联想在 TechWorld 大会上发布 AR 眼镜，从 Demo 看具备手势识别，空间识别就不知道了。后来兔斯霁试了下真机，有简单的手势识别，3D交互界面（所以发热挺严重的），可调节的光机，空间定位就没有啦。
 
 [影创科技](http://www.shadowcreator.com/home.html)
 
@@ -59,7 +57,9 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 
 [Magic Leap one](https://www.magicleap.com/)
 
-饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的设备，2018年早期还将推出内容创作平台你。
+饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的设备，2018年早期还将推出内容创作平台。
+
+
 
 ## 单目智能眼镜（单显示屏）
 
@@ -76,6 +76,10 @@ Magicleap 到现在都还没有曝光，只是从专利图中了解到可能是�
 [Vuzix](https://www.vuzix.com/)
 
 [联想 New Glass](http://www.lenovo-ar.com/c200.html)
+
+[东芝 dynaEdge](https://us.toshiba.com/computers-tablets/laptops/dynaEdge/)
+
+这款产品官方定位是 Mini PC，可以独立运行，可以接 Vuzix 的眼镜。
 
 
 

@@ -4,7 +4,9 @@
 
 [Lens Studio](https://lensstudio.snapchat.com/)
 
-[AR Studio](https://lensstudio.snapchat.com/)
+[Facebook AR Studio](https://developers.facebook.com/products/ar-studio)
+
+[Amazon Sumerian](https://aws.amazon.com/cn/sumerian/)
 
 [ENTiTi](https://www.wakingapp.com/)
 

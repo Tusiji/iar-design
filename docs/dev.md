@@ -43,6 +43,8 @@ Infinity 目前没有公开版的 SDK。
 
 [网易洞见SDK](http://dongjian.163.com/sdk.html)
 
+[京东 AR 开放平台](https://ar.jd.com/)
+
 ## Web AR
 
 [WebXR Viewer](https://github.com/mozilla-mobile/webxr-ios)
