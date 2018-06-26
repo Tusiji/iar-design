@@ -59,6 +59,14 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的设备，2018年早期还将推出内容创作平台。
 
+[ROKID GLASS](http://glass.rokid.com/)
+
+国内厂商 Rokid 家的 AR 眼镜，CES 2018 上亮相过。
+
+[Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
+
+Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是基于这款设备演示的。大家可以关注下它的频道。
+
 
 
 ## 单目智能眼镜（单显示屏）
@@ -80,6 +88,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 [东芝 dynaEdge](https://us.toshiba.com/computers-tablets/laptops/dynaEdge/)
 
 这款产品官方定位是 Mini PC，可以独立运行，可以接 Vuzix 的眼镜。
+
 
 
 
