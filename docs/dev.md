@@ -27,6 +27,16 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 索尼大法的 AR SDK，早在2012年就对外发布过演示，而这些技术基本都用在了自家的产品中。直到2016年才正式对外发布 AR SDK。
 
+[商汤 SenseAR 平台](https://www.sensetime.com/internet/89)
+
+近期推出了 SenseMoji 功能。
+
+[网易洞见 SDK](https://dongjian.163.com/)
+
+[腾讯 AR 开放平台](http://tar.qq.com/)
+
+[Baidu AR 平台](http://ar.baidu.com/)
+
 [Wikitude](http://www.wikitude.com/)
 
 [Catchoom](https://catchoom.com/)
@@ -40,8 +50,6 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 Infinity 目前没有公开版的 SDK。
 
 [太虚 AR SDK](https://www.voidar.net/)
-
-[网易洞见SDK](http://dongjian.163.com/sdk.html)
 
 [京东 AR 开放平台](https://ar.jd.com/)
 
