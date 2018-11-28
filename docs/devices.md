@@ -93,6 +93,10 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 这款产品官方定位是 Mini PC，可以独立运行，可以接 Vuzix 的眼镜。
 
+[North Focals](https://www.bynorth.com/focals)
+
+这款单目设备的光学成像方式比较特殊，直接在镜片上投影。
+
 
 
 
@@ -148,6 +152,9 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。
 [WayRay Navion](https://wayray.com/navion)
 
 车载式的投影装置，将导航信息等投射在前挡风玻璃。
+
+[网易影见](https://ar.163.com/yingjian)
+
 
 
 ## 智能交互硬件
