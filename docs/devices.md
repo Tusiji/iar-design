@@ -1,7 +1,6 @@
 # AR 硬件产品
 主要以 AR 智能眼镜为主，同时也有一些与人机交互相关的硬件。
 
-?> 大部分眼镜设备可能还只是停留在“头戴式演示器”的水平，无法达到 HoloLens 那样的效果。
 
 ## 双目智能眼镜/头盔
 
@@ -21,7 +20,7 @@
 
 [Epson Moverio](https://epson.com/moverio-augmented-reality-smart-glasses)
 
-目前已经出到3代机型，硬件上每一代进步都很大，但软件上就只是一个完整的 Android 系统，导致使用上非常不便。
+目前已经出到3代机型，硬件上每一代进步都很大，但软件上就只是一个原生的 Android 系统，操作非常不便。
 
 [BMW MINI AR GLASSES](http://www.bmwgroupdesignworks.com/work/mini-ar-glasses/)
 
@@ -31,7 +30,7 @@
 
 [Meta](https://www.metavision.com/)
 
-Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)
+Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)。
 
 [castAR(已死)](http://castar.com/)
 
@@ -61,16 +60,19 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [Magic Leap one](https://www.magicleap.com/)
 
-饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的设备，2018年早期还将推出内容创作平台。
+饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的产品，2018年早期还将推出内容创作平台。
 
 [ROKID GLASS](http://glass.rokid.com/)
 
-国内厂商 Rokid 家的 AR 眼镜，CES 2018 上亮相过。
+国内厂商 Rokid 的 AR 眼镜，CES 2018 上亮相过。
 
 [Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
 
 Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是基于这款设备演示的。大家可以关注下它的频道。
 
+[nreal](http://www.nreal.ai/)
+
+国内团队的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
 
 
 ## 单目智能眼镜（单显示屏）
@@ -118,6 +120,8 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 
 联想结合星球大战这个 IP 搞的一套“高级版”AR 盒子。为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算。除此之外，还配套有控制装置（光剑）和定位跟踪的外设。
 
+
+
 ## 非光学透过式 AR 头盔
 
 PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界的画面然后显示到屏幕上。
@@ -130,9 +134,9 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 
 ## 智能手机
 
-[Google Project Tango](https://get.google.com/tango/)
+[Google Project Tango(已被 Google 放弃)](https://get.google.com/tango/)
 
-Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
+Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Google 在移动端的 AR 布局已经全面倒向 ARCore，所以 Tango 也凉凉了。
 
 [iPhone X](https://www.apple.com/cn/iphone-x/)
 
@@ -143,7 +147,7 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。
 
 [MIT Sixth Sense](http://www.pranavmistry.com/projects/sixthsense/)
 
-AR 投影仪装置，支持手势交互（通过特殊标识）。
+AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应该看过这个项目的 Demo 视频。
 
 [Sony Xperia Touch](https://www.sonymobile.com/global-en/products/smart-products/xperia-touch/)
 
@@ -154,6 +158,8 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。
 车载式的投影装置，将导航信息等投射在前挡风玻璃。
 
 [网易影见](https://ar.163.com/yingjian)
+
+来自猪场 AI 事业部的 AR 硬件设备，支持手势控制、3D物体识别。
 
 
 
@@ -170,6 +176,7 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。
 [SMI Eye Tracking](https://www.smivision.com/)
 
 德国眼球追踪眼镜制造商 SensoMotoric Instruments，现在团队已经被 Apple 收购。
+
 
 
 ## 场景重建/3D 扫描硬件
