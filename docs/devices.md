@@ -186,6 +186,14 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 [Structure Sensor](https://structure.io/)
 
 
+## 只有拍摄功能的眼镜
 
+[Spectacles](https://www.spectacles.com/)
+
+由 Snapchat 发布的智能眼镜。
+
+[TONOT](https://tonot.com/home)
+
+产品基本走 Spectacles 的路子，跟腾讯微视联名出过几款眼镜。
 
 
