@@ -38,11 +38,28 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 来自 Vuforia 的远程协助产品，提供 AR 实时标注等功能。其实手机 QQ 中的也有“类似”的功能，只不过没有任何跟踪效果。
 
+
+## 广告营销
+
+[支付宝 AR 平台](https://render.alipay.com/p/s/real/index)
+
+依靠支付宝 app 这个超级流量入口。
+
+[blippAR](https://www.blippar.com/)
+ 
+ 可惜，传闻也快死了。2018/12/20
+
+
+
 ## 社交&摄影
 
 [Snapchat](https://www.snapchat.com/)
 
 最早基于人脸检测做了的“吐彩虹”效果，现在已经具备蛮强的 SLAM 技术，强烈推荐一定要玩。
+
+[网易戏精](https://xijing.netease.com/)
+
+网易人工智能旗下的一款创意短视频社区。
 
 [美图秀秀](https://itunes.apple.com/cn/app/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80/id416048305?mt=8)
 
