@@ -26,6 +26,8 @@
 
 [ODG](http://www.osterhoutgroup.com/home)
 
+好像也要凉凉了 2018/12/29
+
 [Air Glasses](http://www.atheerair.com/smartglasses)
 
 [Meta](https://www.metavision.com/)
@@ -64,7 +66,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [ROKID GLASS](http://glass.rokid.com/)
 
-国内厂商 Rokid 的 AR 眼镜，CES 2018 上亮相过。
+国内厂商 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。
 
 [Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
 
@@ -89,6 +91,10 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 [Vuzix](https://www.vuzix.com/)
 
+[RealWear HMT-1](https://www.realwear.com/)
+
+一款面向工业工作场景的设备，非常「接地气」。
+
 [联想 New Glass](http://www.lenovo-ar.com/c200.html)
 
 [东芝 dynaEdge](https://us.toshiba.com/computers-tablets/laptops/dynaEdge/)
@@ -98,6 +104,10 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 [North Focals](https://www.bynorth.com/focals)
 
 这款单目设备的光学成像方式比较特殊，直接在镜片上投影。后来还买了 Intel Vaunt AR 眼镜的相关技术。
+
+[MAD Gaze](http://madgaze.com/)
+
+香港的团队。
 
 
 

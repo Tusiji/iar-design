@@ -2,6 +2,8 @@
 
 ## 内容创作平台（AR编辑器）
 
+[Vuforia Studio](https://www.ptc.com/en/products/augmented-reality/vuforia-studio)
+
 [Lens Studio](https://lensstudio.snapchat.com/)
 
 [Facebook AR Studio](https://developers.facebook.com/products/ar-studio)
@@ -29,7 +31,7 @@
 
 电视转播中非常流行，用于在直播画面中叠加虚拟素材。
 
-[Adobe After Effect]( https://www.youtube.com/watch?v=vIEdhlS-zYA)
+[Adobe After Effect](https://www.youtube.com/watch?v=vIEdhlS-zYA)
 
 大名鼎鼎的视频制作工具，内置的 Motion Tracking 功能可以打造 AR 效果。
 
@@ -41,5 +43,5 @@
 
 [VR Prototyping Template by Facebook](http://facebook.design/vr-template)
 
-Facebook 推出的 VR 原型设计模板，包含 Sketch+PSD 文档以及一个Unity3D工程。
+Facebook 推出的 VR 原型设计模板，包含 Sketch+PSD 文档以及一个 Unity3D 工程。
 

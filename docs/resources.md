@@ -12,7 +12,7 @@ HoloLens 官方的案例学习资源，列举了包括 HoloStudio、Fragments、
 
 [Google Glass Design](https://developers.google.com/glass/design/principles)
 
-虽然 Google 已经逐步放弃了 Glass 这款产品，但是之前的一些设计文档还是值得参考的。不过值得高兴的是 Google Glass 再次回归啦，主打商业客户。
+虽然 Google 已经逐步放弃了 Glass 这款产品，但是之前的一些设计文档还是值得参考的。不过值得高兴的是 Google Glass 再次回归，主打商业客户。
 
 [iOS Human Interface Guidelines for AR](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
 
