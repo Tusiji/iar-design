@@ -24,7 +24,7 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 [Pokemon Go](http://www.pokemongo.com/)
 
-2016年横空出世，最炙手可热的手游，但没有什么特别高级的 AR 效果，完全是 IP 的胜利。不过也是依靠这个游戏，AR 再一次被更多的人所知晓，国内很多大厂也开始跟进相关的 AR 互动营销。延伸阅读[《Pokemon Go，到底“AR”在哪里？》](https://zhuanlan.zhihu.com/p/21561104)
+2016年横空出世，最炙手可热的手游，但没有什么特别高级的 AR 效果，完全是 IP 的胜利。不过也是依靠这个游戏，AR 再一次被更多的人所知晓，国内很多大厂也开始跟进相关的 AR 互动营销。Niantic 靠游戏应该赚了不少，也开始捣鼓自己的 AR 平台：[Realworld AR Platform](https://www.nianticlabs.com/blog/nianticrealworldplatform/)。更多延伸阅读[《Pokemon Go，到底“AR”在哪里？》](https://zhuanlan.zhihu.com/p/21561104)
 
 [Ingress](https://www.ingress.com/)
 

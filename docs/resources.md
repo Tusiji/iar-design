@@ -129,10 +129,11 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [VR、AR 的一百种可能性 - Google Daydream 张晶华](http://music.163.com/#/program?id=909031320)
 
-## 微信公众号
+## 微信公众号&新闻
 
-- 微软HoloLens
+- 微软 HoloLens
 - 机器之心（ID：almosthuman2014）
+- Next Reality
 
 ## 其他 AR 相关文章
 

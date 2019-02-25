@@ -26,13 +26,13 @@
 
 [ODG](http://www.osterhoutgroup.com/home)
 
-好像也要凉凉了 2018/12/29
+好像要凉凉了。 2018/12/29
 
 [Air Glasses](http://www.atheerair.com/smartglasses)
 
 [Meta](https://www.metavision.com/)
 
-Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)。
+Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)。*2019年初，由于融资失败 Meta 公司整体被出售。
 
 [castAR(已死)](http://castar.com/)
 
@@ -75,6 +75,8 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 [nreal](http://www.nreal.ai/)
 
 国内团队的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
+
+[悉见 X1](http://xiijan.com/)
 
 
 ## 单目智能眼镜（单显示屏）
@@ -163,14 +165,17 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 
 这个投影仪好像已经改进了ID，跟兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的。当时还是隶属于 Life Space UX 产品线，现在已经划为 Xperia 了。
 
-[WayRay Navion](https://wayray.com/navion)
-
-车载式的投影装置，将导航信息等投射在前挡风玻璃。
 
 [网易影见](https://ar.163.com/yingjian)
 
-来自猪场 AI 事业部的 AR 硬件设备，支持手势控制、3D物体识别。
+来自猪厂 AI 事业部的 AR 硬件设备，支持手势控制、3D物体识别。
 
+
+## 车载 HUD
+
+[WayRay Navion](https://wayray.com/navion)
+
+车载式的投影装置，将导航信息等投射在前挡风玻璃。
 
 
 ## 智能交互硬件
