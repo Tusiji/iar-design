@@ -10,9 +10,11 @@
 
 ?> FOV，全称 Field of View，视场角。
 
-[HoloLens V2？](https://www.theverge.com/2018/10/11/17964480/microsoft-hololens-nasa-prototype-headset-video-leak)
+[HoloLens 2](https://www.microsoft.com/zh-cn/hololens)
 
-疑似第二代 HoloLens 曝光。
+全新的 HoloLens 2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。
+
+此前第二代 HoloLens 曝光的[新闻](https://www.theverge.com/2018/10/11/17964480/microsoft-hololens-nasa-prototype-headset-video-leak)。s
 
 [HiAR G100](https://www.hiscene.com/detail-glasses/)
 
