@@ -14,7 +14,11 @@
 
 全新的 HoloLens 2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。
 
-此前第二代 HoloLens 曝光的[新闻](https://www.theverge.com/2018/10/11/17964480/microsoft-hololens-nasa-prototype-headset-video-leak)。s
+此前第二代 HoloLens 曝光的[新闻](https://www.theverge.com/2018/10/11/17964480/microsoft-hololens-nasa-prototype-headset-video-leak)。
+
+[Trimble XR10](http://go.trimble.com/XR10-Product-Interest.html)
+
+由 Trimble 公司基于 HoloLens 定制的 AR 眼镜，支持头盔佩戴。
 
 [HiAR G100](https://www.hiscene.com/detail-glasses/)
 
@@ -56,7 +60,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [Apple 的 AR 眼镜](#)
 
-各种新闻都在猜测 Apple 也正在搞 AR 眼镜，至少硬件供应链那边已经有些风声了。
+各种新闻都在猜测 Apple 也正在搞 AR 眼镜，包括硬件供应链、专利公开、招募人员都能从侧面印证。
 
 [微软 MR 设备](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-mixed-reality)
 
@@ -68,7 +72,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [ROKID GLASS](http://glass.rokid.com/)
 
-国内厂商 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。
+国内团队 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。
 
 [Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
 
@@ -76,7 +80,7 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 [nreal](http://www.nreal.ai/)
 
-国内团队的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
+国内团队太若科技的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
 
 [悉见 X1](http://xiijan.com/)
 
@@ -154,7 +158,11 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Go
 
 [iPhone X](https://www.apple.com/cn/iphone-x/)
 
-利用“原深感摄像头”实现的 FaceID之外，还可以实现“动话表情”，轻松捕捉用户面部运动和表情。背部竖直排列的双摄像头，也许除了拍照的人像模式之外，还会有更多适用于 AR 的应用场景。
+利用“原深感摄像头”实现的 FaceID 之外，还可以实现“动话表情”，轻松捕捉用户面部运动和表情。背部竖直排列的双摄像头，也许除了拍照的人像模式之外，还会有更多适用于 AR 的应用场景。
+
+[Qualcomm Extended Reality](https://www.qualcomm.com/invention/extended-reality)
+
+这并不是具体一款设备，而是高通基于自己的硬件平台推出一整套 XR 方案。
 
 
 ## 智能投影仪
@@ -165,12 +173,12 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 
 [Sony Xperia Touch](https://www.sonymobile.com/global-en/products/smart-products/xperia-touch/)
 
-这个投影仪好像已经改进了ID，跟兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的。当时还是隶属于 Life Space UX 产品线，现在已经划为 Xperia 了。
+这个投影仪好像已经改进了 ID，跟兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的。当时还是隶属于 Life Space UX 产品线，现在已经划为 Xperia 了。
 
 
 [网易影见](https://ar.163.com/yingjian)
 
-来自猪厂 AI 事业部的 AR 硬件设备，支持手势控制、3D物体识别。
+来自网易 AI 事业部的 AR 投影仪硬件设备，支持手势控制、3D 物体识别。
 
 
 ## 车载 HUD
@@ -199,6 +207,10 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 ## 场景重建/3D 扫描硬件
 
 [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
+
+[Azure Kinect DK](https://azure.microsoft.com/en-us/services/kinect-dk/)
+
+伴随 HoloLens 2 同时公布。
 
 [Structure Sensor](https://structure.io/)
 

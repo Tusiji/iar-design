@@ -107,6 +107,10 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 !> 视频都来自 Youtube，请自备梯子。
 
+[Best practices to design AR applications (Google I/O '18)](https://www.youtube.com/watch?v=bNJJCREZgVM)
+
+Google IO 2018 上的 Session，推荐观看！
+
 [Rapid prototyping Google Glass - Tom Chi](https://www.youtube.com/watch?v=d5_h1VuwD6g
 )（中文字幕）
 
@@ -129,12 +133,7 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [VR、AR 的一百种可能性 - Google Daydream 张晶华](http://music.163.com/#/program?id=909031320)
 
-## 微信公众号&新闻
 
-- 微软 HoloLens
-- 机器之心（ID：almosthuman2014）
-- Next Reality
-
-## 其他 AR 相关文章
+## 其他文章
 
 [ARKit and ARCore will not usher massive adoption of mobile AR - Ori Inbar](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad) ([中文翻译](https://zhuanlan.zhihu.com/p/31554868))

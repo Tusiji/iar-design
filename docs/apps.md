@@ -1,8 +1,8 @@
-# AR 行业应用
+# AR 软件与应用
 
 看看别人在用 AR 做什么。
 
-## 巡检、维修、远程协助
+## 巡检、维修
 
 这些产品一般面向商用客户，以重工业为主。
 
@@ -26,6 +26,7 @@
 
 联想的企业 AR 服务平台，全称 Augmented Human Cloud，包含远程协作、工作流指定、3D展示、识别等模块。联想在 AWE 2017 与 Wikitude 上达成了近一步的合作。
 
+
 ## 远程协作
 
 这类产品是目前 AR 设备中经常被拿来背书的功能。
@@ -34,12 +35,27 @@
 
 Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，还可以实时在空间中绘制标示、箭头，摆放图片等。
 
+[Microsoft Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)
+
+跟早先 HoloLens 版 Skype 功能类似，基于音视频传输，同时可以在空间中进行标注、添加图片文件。此应用已经可以在 HoloLens 上下载，需要 Microsoft Teams 订阅用户帐号（可免费试用）。现已加入 Microsoft Dynamics 365 豪华套餐。
+
+[Microsoft Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
+
+协助进行室内外空间设计；可以多人实时共享空间、共同协作。现已加入 Microsoft Dynamics 365 豪华套餐。
+
+[Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/)
+
 [Vuforia Project Chalk](https://developer.vuforia.com/projectchalk)
 
 来自 Vuforia 的远程协助产品，提供 AR 实时标注等功能。其实手机 QQ 中的也有“类似”的功能，只不过没有任何跟踪效果。
 
 
-## 广告营销
+## 创造&创意
+
+[Adobe Project Aero](https://www.adobe.com/products/projectaero.html)
+
+
+## 互动营销
 
 [支付宝 AR 平台](https://render.alipay.com/p/s/real/index)
 
@@ -72,3 +88,7 @@ Apple 随 iPhone X 发布的一个人脸表情功能，利用自带的深感摄�
 [AR Sticker on Pixel camera](https://www.youtube.com/watch?v=DoS7VwKd0Ys)
 
 Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以将虚拟的物体叠加到现实空间。自带多个IP的素材。
+
+
+## 试验性项目
+[Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/)
