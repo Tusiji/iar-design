@@ -53,6 +53,10 @@ Infinity 目前没有公开版的 SDK。
 
 [京东 AR 开放平台](https://ar.jd.com/)
 
+[MODIFACE](http://modiface.com/)
+
+看名称也能猜到，它专为美妆品牌提供人脸 AR 技术
+
 ## Web AR
 
 [WebXR Viewer](https://github.com/mozilla-mobile/webxr-ios)

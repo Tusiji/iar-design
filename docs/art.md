@@ -26,6 +26,11 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 2016年横空出世，最炙手可热的手游，但没有什么特别高级的 AR 效果，完全是 IP 的胜利。不过也是依靠这个游戏，AR 再一次被更多的人所知晓，国内很多大厂也开始跟进相关的 AR 互动营销。Niantic 靠游戏应该赚了不少，也开始捣鼓自己的 AR 平台：[Realworld AR Platform](https://www.nianticlabs.com/blog/nianticrealworldplatform/)。更多延伸阅读[《Pokemon Go，到底“AR”在哪里？》](https://zhuanlan.zhihu.com/p/21561104)
 
+[Harry Potter: Wizards Unite](https://www.harrypotterwizardsunite.com)
+
+又是 Niantic 的游戏，LBS AR 结合哈利波特 IP 的产物。（兔斯霁个人不看好这款游戏）
+
+
 [Ingress](https://www.ingress.com/)
 
 基于地理信息的 AR 游戏，早期在 Google 内孵化，后来独立成为公司。《Pokemon Go》就是他家跟任天堂一起开发的。
@@ -38,6 +43,7 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 人称“年货”的《使命召唤》在结束了现代战争之后，将游戏设定转变为了未来世界，各种酷炫的特效。
 
+
 ## 电影与电视
 
 [黑镜](https://movie.douban.com/subject/7054120/)
@@ -45,6 +51,7 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 [刀剑神域](https://movie.douban.com/subject/6869376/)
 
 这是一部日本动画作品，主人公进入一款叫《SAO》的游戏，里面的 GUI 和交互值得一看。
+
 
 ## FUI
 

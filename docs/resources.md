@@ -70,25 +70,6 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 [AfterNow's process - envisioning, prototyping, building](https://developer.microsoft.com/en-us/windows/mixed-reality/case_study_-_afternow%27s_process_-_envisioning,_prototyping,_building)
 
 
-
-
-## Slides
-
-[Designing for Wearables](https://www.slideshare.net/slideshow/embed_code/key/pW6w6e3yBJ3WzK)
-
-[Designing Outstanding Augmented Reality Experiences](https://www.slideshare.net/slideshow/embed_code/key/npcHXFGUAAmAPx)
-
-[Rapid Prototyping For Augmented Reality](https://www.slideshare.net/slideshow/embed_code/key/3Ud0Op5woCitAj)
-
-[Augmented Reality: The Next 20 Years](https://www.slideshare.net/slideshow/embed_code/key/ke6w1BQwW359UT)
-
-[Empathic Glasses: Sharing Remote Gaze and Emotion](https://www.slideshare.net/slideshow/embed_code/key/qwbhu2z0AtgNJy)
-
-[Building AR and VR Experiences](https://www.slideshare.net/slideshow/embed_code/key/Smu2qTm2L6Jpu)
-
-[8ninths HoloLens Design Patterns](https://www.slideshare.net/8ninths/8ninths-hololens-design-patterns)
-
-
 ## 图书
 [Designing for Mixed Reality](http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)
 
@@ -132,6 +113,24 @@ Google IO 2018 上的 Session，推荐观看！
 来自一个设计播客 UXCoffee 的节目，嘉宾是 Google Daydream 团队的用研，讲了很多 VR/AR 与传统二维应用设计的不同点。（链接是网易云音乐，大家也可以去播客 app 中搜素”UXCoffee“来收听。）
 
 [VR、AR 的一百种可能性 - Google Daydream 张晶华](http://music.163.com/#/program?id=909031320)
+
+
+## Slides
+
+[Designing for Wearables](https://www.slideshare.net/slideshow/embed_code/key/pW6w6e3yBJ3WzK)
+
+[Designing Outstanding Augmented Reality Experiences](https://www.slideshare.net/slideshow/embed_code/key/npcHXFGUAAmAPx)
+
+[Rapid Prototyping For Augmented Reality](https://www.slideshare.net/slideshow/embed_code/key/3Ud0Op5woCitAj)
+
+[Augmented Reality: The Next 20 Years](https://www.slideshare.net/slideshow/embed_code/key/ke6w1BQwW359UT)
+
+[Empathic Glasses: Sharing Remote Gaze and Emotion](https://www.slideshare.net/slideshow/embed_code/key/qwbhu2z0AtgNJy)
+
+[Building AR and VR Experiences](https://www.slideshare.net/slideshow/embed_code/key/Smu2qTm2L6Jpu)
+
+[8ninths HoloLens Design Patterns](https://www.slideshare.net/8ninths/8ninths-hololens-design-patterns)
+
 
 
 ## 其他文章

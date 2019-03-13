@@ -149,7 +149,6 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 近期被 Apple 收购了。
 
 
-
 ## 智能手机
 
 [Google Project Tango(已被 Google 放弃)](https://get.google.com/tango/)
@@ -159,6 +158,10 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Go
 [iPhone X](https://www.apple.com/cn/iphone-x/)
 
 利用“原深感摄像头”实现的 FaceID 之外，还可以实现“动话表情”，轻松捕捉用户面部运动和表情。背部竖直排列的双摄像头，也许除了拍照的人像模式之外，还会有更多适用于 AR 的应用场景。
+
+[华为荣耀V20](https://www.vmall.com/product/10086134839130.html)
+
+配备 TOF 相机，可以提供深度测量、骨骼检测、运动捕捉。
 
 [Qualcomm Extended Reality](https://www.qualcomm.com/invention/extended-reality)
 
