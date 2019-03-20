@@ -25,6 +25,8 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 [Sony Smart AR(日语)](http://www.sonydna.com/sdna/solution/SmartAR_SDK.html)
 
+也凉凉啦，哎！「2019年3月31日をもちまして、"SmartAR® SDK" の販売を終了いたします。」
+
 索尼大法的 AR SDK，早在2012年就对外发布过演示，而这些技术基本都用在了自家的产品中。直到2016年才正式对外发布 AR SDK。
 
 [商汤 SenseAR 平台](https://www.sensetime.com/internet/89)
@@ -62,6 +64,11 @@ Infinity 目前没有公开版的 SDK。
 [WebXR Viewer](https://github.com/mozilla-mobile/webxr-ios)
 
 
+## 业内标准
+
+[OpenXR](https://www.khronos.org/openxr)
+
+>OpenXR是由科纳斯组织（Khronos Group）管理的一个工作组，旨在设计一个面向虚拟现实（VR）和增强现实（AR）的标准。
 
 
 ## AR 开发入门教程
