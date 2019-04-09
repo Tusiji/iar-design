@@ -18,6 +18,10 @@ HoloLens 官方的案例学习资源，列举了包括 HoloStudio、Fragments、
 
 Apple 为 ARKit 推出了相关的设计文档。非官方的[中文翻译](https://zhuanlan.zhihu.com/p/29039144)已经出了。
 
+[Augmented Reality Design Guidelines](https://designguidelines.withgoogle.com/ar-design/)
+
+Google 为 ARCore 推出的设计文档。非官方的[中文翻译](http://www.woshipm.com/pd/1195054.html)已经出了。
+
 [Meta Spatial Interface Design:Guidelines for Designing & Developing in AR](https://pages.metavision.com/meta-augmented-reality-design-guidelines)
 
 [ODG Glasses System UI Overview](https://developer.osterhoutgroup.com/hc/en-us/articles/209732026-UI-Overview)
