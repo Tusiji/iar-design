@@ -110,7 +110,7 @@ Google IO 2018 上的 Session，推荐观看！
 
 [从二维到三维，VR/AR 产品设计要怎么做？(推荐) - Google Daydream 张晶华](http://music.163.com/#/program?id=909174607)
 
-来自一个设计播客 UXCoffee 的节目，嘉宾是 Google Daydream 团队的用研，讲了很多 VR/AR 与传统二维应用设计的不同点。（链接是网易云音乐，大家也可以去播客 app 中搜素”UXCoffee“来收听。）
+来自设计播客 UXCoffee 的一期节目，嘉宾是 Google Daydream 团队的用研，讲解了很多 AR/VR 与传统 2D 应用设计的差异。（链接是网易云音乐，也可以去播客 App 中搜索「UXCoffee」来收听。）
 
 [VR、AR 的一百种可能性 - Google Daydream 张晶华](http://music.163.com/#/program?id=909031320)
 
