@@ -1,2 +1,4 @@
 # AR Design Club
-A collection of AR design resources.
+A wiki of AR/VR/MR design resources.
+
+Learn more at [ardesign.club](http://ardesign.club/#/)
