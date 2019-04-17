@@ -1,7 +1,7 @@
 # AR 开发
 AR 应用的开发，可以很难，也可以很简单。目前，市面上也已经有很多 AR SDK，即使你不具备编程能力，也可以开发简单的 AR 应用。
 
-## AR SDK 
+## 通用 AR SDK 
 
 [ARToolKit](https://artoolkit.org/)
 
@@ -55,9 +55,15 @@ Infinity 目前没有公开版的 SDK。
 
 [京东 AR 开放平台](https://ar.jd.com/)
 
+
+## 人脸特效 SDK
+
 [MODIFACE](http://modiface.com/)
 
 看名称也能猜到，它专为美妆品牌提供人脸 AR 技术
+
+[FaceUnity](https://www.faceunity.com)
+
 
 ## Web AR
 

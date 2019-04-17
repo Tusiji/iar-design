@@ -183,6 +183,8 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 
 来自网易 AI 事业部的 AR 投影仪硬件设备，支持手势控制、3D 物体识别。
 
+[HTC VIVE AR lamp](https://www.behance.net/gallery/76239929/HTC-VIVE-AR-lamp)
+
 
 ## 车载 HUD
 
