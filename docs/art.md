@@ -30,6 +30,9 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 又是 Niantic 的游戏，LBS AR 结合哈利波特 IP 的产物。（兔斯霁个人不看好这款游戏）
 
+[我的世界 AR 版](https://www.youtube.com/watch?v=UiX0dVXiGa8)
+
+Build 2019 中亮相。
 
 [Ingress](https://www.ingress.com/)
 

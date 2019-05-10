@@ -26,7 +26,10 @@
 
 [Epson Moverio](https://epson.com/moverio-augmented-reality-smart-glasses)
 
-目前已经出到3代机型，硬件上每一代进步都很大，但软件上就只是一个原生的 Android 系统，操作非常不便。
+目前已经出到3代机型（不含小改款），硬件上每一代进步都很大，但软件上就只是一个原生的 Android 系统，操作非常不便。
+
+近期推出了可连接手机的 BT-30C 产品线，这可能也是后续分体式 AR 眼镜的一种形态。2019/5
+
 
 [BMW MINI AR GLASSES](http://www.bmwgroupdesignworks.com/work/mini-ar-glasses/)
 
