@@ -59,6 +59,10 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 联想在 TechWorld 大会上发布 AR 眼镜，从 Demo 看具备手势识别，空间识别就不知道了。后来兔斯霁试了下真机，有简单的手势识别，3D交互界面（所以发热挺严重的），可调节的光机，空间定位就没有啦。
 
+[联想 ThinkReality](https://www.lenovo.com/ww/en/solutions/thinkreality)
+
+内部代号skyblue，Lumus的光学；软件系统跟晨星估计类似。
+
 [影创科技](http://www.shadowcreator.com/home.html)
 
 [Apple 的 AR 眼镜](#)
@@ -88,11 +92,18 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 [悉见 X1](http://xiijan.com/)
 
 
+
+
 ## 单目智能眼镜（单显示屏）
 
 [Google Glass](https://developers.google.com/glass/distribute/glass-at-work)
 
 于2012年6月发布，虽然 Google Glass 现在已经没有什么起色，但在智能穿戴式设备上依旧是里程碑式的存在。在沉寂多年之后，2017年下旬又通过企业版的形式重新复活。
+
+[Google Glass Enterprise Edition](https://www.google.com/glass/start/)
+
+Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有不小提升，部分细分市场还是比较认可这样的设备的。
+
 
 [Opinvent](http://www.optinvent.com/)
 
