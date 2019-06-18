@@ -18,6 +18,10 @@
 
 [抖音 Effect Creator](https://effect.douyin.com/site/download)
 
+[Apple Reality Composer](https://developer.apple.com/augmented-reality/reality-composer/)
+
+Apple 在 WWDC2019 上发布的入门的 AR 内容制作工具，支持 Mac 和 iOS 设备。
+
 
 
 ## 软件工具
