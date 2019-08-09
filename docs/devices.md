@@ -192,6 +192,9 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 
 这个投影仪好像已经改进了 ID，跟兔斯霁在 [Sony Expo 2014](https://zhuanlan.zhihu.com/p/19877079) 上看到的完全是不一样的。当时还是隶属于 Life Space UX 产品线，现在已经划为 Xperia 了。
 
+[Sony 全息投影](https://www.sony.co.jp/SonyInfo/News/Press/201907/19-071/index.html)
+
+Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏。（索尼大法好！！！！！）
 
 [网易影见](https://ar.163.com/yingjian)
 
@@ -233,6 +236,8 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 
 [Structure Sensor](https://structure.io/)
 
+[Intel RealSense](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/realsense-overview.html)
+
 
 ## 只有拍摄功能的眼镜
 
@@ -243,5 +248,10 @@ AR 投影仪装置，支持手势交互（通过特殊标识）。很多人应�
 [TONOT](https://tonot.com/home)
 
 产品基本走 Spectacles 的路子，跟腾讯微视联名出过几款眼镜。
+
+
+## 其他展示装置
+
+[Adobe Project Glasswing](https://www.youtube.com/watch?v=0_Pkbz4eAV8)
 
 

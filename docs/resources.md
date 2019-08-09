@@ -4,7 +4,7 @@
 
 [HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
 
-HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[文字总结](https://zhuanlan.zhihu.com/p/20650838)和[视频总结](http://www.bilibili.com/video/av9643999/)。微软在7月份大幅度更新了这份设计文档，兔斯霁也在阅读之后进行了[一些汇总](https://zhuanlan.zhihu.com/p/27647579)。
+HoloLens 官方设计文档，内容比较全，兔斯霁对交互部分进行过[文字总结](https://zhuanlan.zhihu.com/p/20650838)和[视频总结](http://www.bilibili.com/video/av9643999/)。微软在7月份大幅度更新了这份设计文档，兔斯霁也在阅读之后进行了[一些汇总](https://zhuanlan.zhihu.com/p/27647579)。此外[MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_Interactable.html)也是官方推出的不错的学习资源。
 
 [HoloLens Case studies](https://developer.microsoft.com/en-us/windows/holographic/case_studies)
 
