@@ -73,6 +73,11 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 
 [AfterNow's process - envisioning, prototyping, building](https://developer.microsoft.com/en-us/windows/mixed-reality/case_study_-_afternow%27s_process_-_envisioning,_prototyping,_building)
 
+[腾讯ISUX：AR，我们从设计说起](https://mp.weixin.qq.com/s/OP0rWr1FCGmwEEMvvBr_5A)
+
+（此文有盗图嫌疑，吐槽一下）
+
+[百度UXC：手机端空间级AR交互设计指南](http://mux.baidu.com/1211)
 
 ## 图书
 [Designing for Mixed Reality](http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)

@@ -91,6 +91,9 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 [悉见 X1](http://xiijan.com/)
 
+[NVIDIA Foveated AR](https://research.nvidia.com/publication/2019-07_Foveated-AR%3A-Dynamically-Foveated)
+
+可根据用户视线焦点，动态调节渲染的内容。目前还是 Research 阶段。2019/08
 
 
 
@@ -131,6 +134,9 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 香港的团队。
 
+[Form Swim Goggles](https://www.formswim.com/)
+
+前 Recon 团队成员搞的新项目，主打智能泳镜。（其实 Recon 最早也是专注骑行运动）
 
 
 
@@ -244,6 +250,8 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 [Spectacles](https://www.spectacles.com/)
 
 由 Snapchat 发布的智能眼镜。
+
+最近（2019/08）Snapchat 又发布了第三代产品，配备了2个摄像头，可以拍摄并编辑出简单的3D照片等效果。
 
 [TONOT](https://tonot.com/home)
 
