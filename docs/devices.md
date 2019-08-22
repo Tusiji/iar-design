@@ -81,6 +81,10 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 国内团队 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。
 
+[VIVO AR 眼镜](http://www.sohu.com/a/323072384_395737)
+
+据说是买的 Rokid 家的方案。
+
 [Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
 
 Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是基于这款设备演示的。大家可以关注下它的频道。
@@ -132,7 +136,7 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 [MAD Gaze](http://madgaze.com/)
 
-香港的团队。
+香港的团队？？从单目眼镜起家，后面也有涉猎双目方案。
 
 [Form Swim Goggles](https://www.formswim.com/)
 
@@ -257,6 +261,9 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 
 产品基本走 Spectacles 的路子，跟腾讯微视联名出过几款眼镜。
 
+[华为 X Gentle Monster](https://tech.sina.com.cn/mobile/n/n/2019-08-17/doc-ihytcern1433786.shtml)
+
+华为与 Gentle Monster 合作款。
 
 ## 其他展示装置
 
