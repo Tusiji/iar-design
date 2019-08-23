@@ -1,6 +1,6 @@
 # HoloLens 专题
 
-在目前的 AR 设备中，HoloLens 无疑是业界领先的，其相关的文档、资源和信息是也可是说是最详细的。下面这些都是兔斯霁在阅读官方文档后挑选出来的，推荐大家一定看一下。
+在目前的 AR 设备中，HoloLens 无疑是业界领先的，其相关的文档、资源和信息是也可是说是最详细的。以下都是兔斯霁在阅读官方文档后挑选出来的，强烈推荐大家阅读。
 
 ## 官方文档摘选
 
@@ -9,6 +9,8 @@
 [Microsoft UWP 官方设计指南](https://developer.microsoft.com/en-us/windows/apps/design)
 
 Hololens 可以兼容 UWP，所以尽管是开发 HoloLens app，官方也建议阅读此文档。
+
+[Mixed Reality Toolkit(推荐)](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
 
 [App Model(推荐)](https://developer.microsoft.com/en-us/windows/mixed-reality/app_model)
 

@@ -22,7 +22,7 @@
 
 ## 开发者会议
 
-几家互联网巨头每年的发布会，也会有 AR 相关的部分内容，建议关注。
+几家互联网巨头每年的发布会，都会有 AR 相关的内容，建议关注：
 - Apple WWDC
 - Facebook F8
 - Google IO
@@ -30,5 +30,5 @@
 
 兔斯霁也为大家进行了整理:
 
-- [2018Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/38484401)
 - [2019Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/66412302)
+- [2018Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/38484401)
