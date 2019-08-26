@@ -1,4 +1,4 @@
-# AR Design Club
+# iAR Design
 A wiki of AR/VR/MR design resources.
 
-Learn more at [ardesign.club](http://ardesign.club/#/)
+Learn more at [iar.design](http://iar.design/#/)
