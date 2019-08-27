@@ -1,8 +1,6 @@
-# 欢迎来到 iAR Design
+![](assets/branding_iar.png)
 
 >ardesign.club 启用全新域名 iar.design，还请收藏🥳
-
-![](assets/branding_iar.png)
 
 「iAR Design」是一个 AR 学习资源分享空间，旨在为设计师以及对 AR 感兴趣的朋友推荐 AR 设计资源、普及 AR 技术知识、分享 AR 产品应用。这里的内容侧重于 AR 设计资源，也会有 AR 眼镜、VR、人机交互、智能硬件等内容。
 
