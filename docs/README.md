@@ -1,4 +1,4 @@
-![](assets/logo_branding.png)
+# 欢迎来到 iAR Design
 
 >ardesign.club 启用全新域名 iar.design，还请收藏🥳
 
