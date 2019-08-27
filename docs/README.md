@@ -1,6 +1,6 @@
-# 欢迎来到 iAR Design
+# 欢迎
 
-![](assets/logo_touchicon.png)
+![](assets/logo_branding.png)
 
 >ardesign.club 启用全新域名 iar.design，还请收藏🥳
 
