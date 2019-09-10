@@ -61,7 +61,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [联想 ThinkReality](https://www.lenovo.com/ww/en/solutions/thinkreality)
 
-内部代号skyblue，Lumus的光学；软件系统跟晨星估计类似。
+内部代号skyblue，Lumus的光学；软件系统估计跟晨星类似。
 
 [影创科技](http://www.shadowcreator.com/home.html)
 
@@ -160,7 +160,8 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 
 [Lenovo Mirage AR headset](http://www3.lenovo.com/us/en/jedichallenges)
 
-联想结合星球大战这个 IP 搞的一套“高级版”AR 盒子。为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算。除此之外，还配套有控制装置（光剑）和定位跟踪的外设。
+联想结合《星球大战》IP 出了一套“高级版”AR 盒子，配套有控制装置（光剑）和定位跟踪的外设。而后在19年9月，又推出了「漫威英雄次元」的套装。（为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算）
+
 
 
 
