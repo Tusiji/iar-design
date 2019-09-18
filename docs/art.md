@@ -44,6 +44,10 @@ AR 版我的世界，Build 2019 中亮相。
 
 基于地理信息的 AR 游戏，早期在 Google 内孵化，后来独立成为公司。《Pokemon Go》就是他家跟任天堂一起开发的。
 
+[Mark AR](https://36kr.com/p/5247102)
+
+多人 AR 互动的墙面涂鸦社交游戏，基于 Google Cloud Anchor 技术。
+
 [看门狗](http://watchdogs.ubisoft.com/watchdogs/en-us/home/)
 
 《看门狗》是一个沙盒游戏，场景高度还原，然后在游戏 GUI 中叠加信息实现 AR 效果。

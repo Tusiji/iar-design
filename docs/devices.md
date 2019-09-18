@@ -35,7 +35,7 @@
 
 [ODG](http://www.osterhoutgroup.com/home)
 
-好像要凉凉了。 2018/12/29
+好像要凉凉了。 2018/12
 
 [Air Glasses](http://www.atheerair.com/smartglasses)
 
@@ -52,6 +52,8 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 [Sony Smart Eye glass](https://developer.sonymobile.com/products/smarteyeglass/)
 
 [DAQRI](https://daqri.com/)
+
+好像要凉凉了。2019/09
 
 [GlassUp](http://www.glassup.net/en/)
 
