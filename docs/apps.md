@@ -51,7 +51,7 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 [TeamViewer Pilot](https://www.teamviewer.com/en-us/solutions/augmented-reality-remote-support/#gref)
 
-老牌的协作软件 TeamViewer 可开始推 AR 产品了。
+老牌的协作软件 TeamViewer 也开始推 AR 产品了。
 
 
 ## 创造&创意

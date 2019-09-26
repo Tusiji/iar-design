@@ -252,7 +252,7 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 [Intel RealSense](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/realsense-overview.html)
 
 
-## 只有拍摄功能的眼镜
+## 智能眼镜
 
 [Spectacles](https://www.spectacles.com/)
 
@@ -267,6 +267,11 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 [华为 X Gentle Monster](https://tech.sina.com.cn/mobile/n/n/2019-08-17/doc-ihytcern1433786.shtml)
 
 华为与 Gentle Monster 合作款。
+
+[Amazon Echo Frames](https://www.theverge.com/2019/9/25/20883892/amazon-echo-frames-smart-glasses-features-specs-alexa)
+
+集成了自家的 Alexa 语音助手
+
 
 ## 其他展示装置
 
