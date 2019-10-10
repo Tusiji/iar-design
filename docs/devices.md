@@ -67,10 +67,6 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [影创科技](http://www.shadowcreator.com/home.html)
 
-[Apple 的 AR 眼镜](#)
-
-各种新闻都在猜测 Apple 也正在搞 AR 眼镜，包括硬件供应链、专利公开、招募人员都能从侧面印证。
-
 [微软 MR 设备](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-mixed-reality)
 
 这个不是 AR 设备，但是也从属于微软的 MR 平台，还是值得留意。
@@ -101,6 +97,17 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 可根据用户视线焦点，动态调节渲染的内容。目前还是 Research 阶段。2019/08
 
+[Apple 的 AR 眼镜](#)
+
+各种新闻都在猜测 Apple 正在开发 AR 眼镜，包括硬件供应链、专利公开、招募人员都能从侧面印证。
+
+[Facebook 的 AR 眼镜](#)
+
+Project Live Maps 
+
+[Sony 的 AR 头显？](http://www.sohu.com/a/345788045_549351)
+
+索尼在银座的 Sony Park 推出的《捉鬼敢死队》线下多人 AR 游戏中，使用了有 Sony logo 的设备。设备为一体机，光学结构未知，估计大概率是曲面反射。（嗷嗷嗷嗷！索尼大法！）
 
 
 ## 单目智能眼镜（单显示屏）
@@ -192,7 +199,7 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Go
 
 [Qualcomm Extended Reality](https://www.qualcomm.com/invention/extended-reality)
 
-这并不是具体一款设备，而是高通基于自己的硬件平台推出一整套 XR 方案。
+这并不是具体的一款设备，而是高通基于自己的硬件平台推出一整套 XR 方案。像 Nreal、Rokid 都是这个方案下的产物。
 
 
 ## 智能投影仪
