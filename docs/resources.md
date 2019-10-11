@@ -36,7 +36,7 @@ Google 语音交互设计文档。
 
 [Magic Leap: Designing for Spatial Computing Overview](https://creator.magicleap.com/learn/guides/designing-for-spatial-computing-landing)
 
-Magic Leap 官方文档中关于设计的指南，原文主要登录查看。[中文翻译点这里](doc-magic-leap-design)
+Magic Leap 官方文档中设计相关的指南。原文需要登录查看，[中文翻译点这里](doc-magic-leap-design)。
 
 
 ## 设计文章
@@ -78,6 +78,7 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 （此文有盗图嫌疑，吐槽一下）
 
 [百度UXC：手机端空间级AR交互设计指南](http://mux.baidu.com/1211)
+
 
 ## 图书
 [Designing for Mixed Reality](http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)
