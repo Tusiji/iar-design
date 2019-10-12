@@ -58,6 +58,10 @@ Apple 在 WWDC2019 上发布的入门的 AR 内容制作工具，支持 Mac 和 
 
 微软推出的制作 VR 原型设计与制作工具。
 
+[Daydream Stickersheet](https://developers.google.com/vr/design/sticker-sheet)
+
+Google Daydream 团队推出的设计模版（Sketch），配合[视频](https://www.youtube.com/watch?v=ES9jArHRFHQ&t=9s&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy)食用效果更加！
+
 [VR Prototyping Template by Facebook](http://facebook.design/vr-template)
 
 Facebook 推出的 VR 原型设计模板，包含 Sketch+PSD 文档以及一个 Unity3D 工程。
