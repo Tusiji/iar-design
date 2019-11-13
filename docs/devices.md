@@ -109,6 +109,10 @@ Project Live Maps
 
 索尼在银座的 Sony Park 推出的《捉鬼敢死队》线下多人 AR 游戏中，使用了有 Sony logo 的设备。设备为一体机，光学结构未知，估计大概率是曲面反射。（嗷嗷嗷嗷！索尼大法！）
 
+[am glass](https://www.pacificfuture.co/)
+
+太平洋未来科技出品。（不过这外观，感觉抄袭成分居多呀）
+
 
 ## 单目智能眼镜（单显示屏）
 

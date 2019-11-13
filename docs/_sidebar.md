@@ -1,4 +1,4 @@
-- 入门
+- 开始
  - [欢迎]()
  - [AR 基础知识](/intro-ar)
 
@@ -14,10 +14,9 @@
  - [会议与组织](/conference)
  - [新闻媒体](/news)
 
-
 - 关于
  - [关于 iAR Design](/about)
- - [捐赠](/donate)
+ - [捐赠咖啡☕️](/donate)
  - [感谢](/thx)
  
  
