@@ -83,6 +83,10 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 据说是买的 Rokid 家的方案。
 
+[OPPO AR 眼镜](http://www.7tin.cn/news/138019.html)
+
+发布于19年12月OPPO未来科技大会，双目光波导方案，支持手势操作。然而从演示的内容与界面判断，软件方面还很薄弱，估计也就只是跑了几个Demo，不过已经很不错了。（PS：据说那个太阳系演示，原型是在HoloLens上做的，内容供应商开发时都没拿到硬件）
+
 [Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
 
 Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是基于这款设备演示的。大家可以关注下它的频道。
