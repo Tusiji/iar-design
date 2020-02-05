@@ -6,13 +6,13 @@
 
 [HoloLens](https://www.microsoft.com/microsoft-hololens/en-us)
 
-目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛逼。内容方面支持原生 Holographic app，扩展支持 UWP。目前业界最高水准！
+目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛逼。内容方面支持原生 Holographic app，扩展支持 UWP。
 
 ?> FOV，全称 Field of View，视场角。
 
 [HoloLens 2](https://www.microsoft.com/zh-cn/hololens)
 
-全新的 HoloLens 2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。
+全新的 HoloLens 2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。目前业界最高水准！
 
 此前第二代 HoloLens 曝光的[新闻](https://www.theverge.com/2018/10/11/17964480/microsoft-hololens-nasa-prototype-headset-video-leak)。
 
@@ -30,7 +30,6 @@
 
 近期推出了可连接手机的 BT-30C 产品线，这可能也是后续分体式 AR 眼镜的一种形态。2019/5
 
-
 [BMW MINI AR GLASSES](http://www.bmwgroupdesignworks.com/work/mini-ar-glasses/)
 
 [ODG](http://www.osterhoutgroup.com/home)
@@ -41,7 +40,7 @@
 
 [Meta](https://www.metavision.com/)
 
-Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)。*2019年初，由于融资失败 Meta 公司整体被出售。
+Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.com/p/33555034)。2019年初，由于融资失败 Meta 公司整体被出售。
 
 [castAR(已死)](http://castar.com/)
 
@@ -89,7 +88,7 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 [nreal](http://www.nreal.ai/)
 
-国内团队太若科技的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
+国内太若科技的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
 
 [悉见 X1](http://xiijan.com/)
 
@@ -122,8 +121,7 @@ Project Live Maps
 
 [Google Glass Enterprise Edition](https://www.google.com/glass/start/)
 
-Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有不小提升，部分细分市场还是比较认可这样的设备的。
-
+Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有不小提升，部分细分市场还是比较认可这样的设备的。此外，Google 在2020年2月份也开放给普通开发者[直接购买](https://developers.googleblog.com/2020/02/glass-enterprise-edition-2-now.html)。
 
 [Opinvent](http://www.optinvent.com/)
 
@@ -284,7 +282,7 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 集成了自家的 Alexa 语音助手
 
 
-## 其他展示装置
+## 展示装置
 
 [Adobe Project Glasswing](https://www.youtube.com/watch?v=0_Pkbz4eAV8)
 
