@@ -10,7 +10,7 @@
 
 ?> FOV，全称 Field of View，视场角。
 
-[HoloLens 2](https://www.microsoft.com/zh-cn/hololens)
+[HoloLens2](https://www.microsoft.com/zh-cn/hololens)
 
 全新的 HoloLens 2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。目前业界最高水准！
 
@@ -18,11 +18,11 @@
 
 [Trimble XR10](http://go.trimble.com/XR10-Product-Interest.html)
 
-由 Trimble 公司基于 HoloLens 定制的 AR 眼镜，支持头盔佩戴。
+由 Trimble 公司基于 HoloLens2 定制的 AR 眼镜，支持头盔佩戴。
 
 [HiAR G100](https://www.hiscene.com/detail-glasses/)
 
-国内首款双目 AR 眼镜，目前已经发布第二代产品。
+国内首款双目 AR 眼镜，兔斯霁参与了定制软件的研发。目前已经发布第二代产品 [HiAR G100](https://www.hiscene.com/g200/)，形态也变为分体形式。
 
 [Epson Moverio](https://epson.com/moverio-augmented-reality-smart-glasses)
 
@@ -76,7 +76,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [ROKID GLASS](http://glass.rokid.com/)
 
-国内团队 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。
+国内团队 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。2020年初也随着疫情推出一些测温相关的应用产品（联合亮风台），同时也推出了新产品线 [ROKID Vision](https://www.rokid.com/products/ar-glass/rokid-vision/)，基于上海海思发布 XR 芯片平台。
 
 [VIVO AR 眼镜](http://www.sohu.com/a/323072384_395737)
 
@@ -92,7 +92,7 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 [nreal](http://www.nreal.ai/)
 
-国内太若科技的产品，在小米 AIoT 开发者大会上作为展示项目亮相。
+国内太若科技的产品，在小米 AIoT 开发者大会上作为展示项目亮相。2020年5月，联合叮叮软件PR了一下。
 
 [悉见 X1](http://xiijan.com/)
 
@@ -100,9 +100,11 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 可根据用户视线焦点，动态调节渲染的内容。目前还是 Research 阶段。2019/08
 
-[Apple 的 AR 眼镜](#)
+[Apple Glass](#)
 
 各种新闻都在猜测 Apple 正在开发 AR 眼镜，包括硬件供应链、专利公开、招募人员都能从侧面印证。
+
+2020年5月，又出现各种[爆料文章](https://www.sohu.com/a/396531937_104421)，只是兔斯霁觉得都不怎么靠谱。
 
 [Facebook 的 AR 眼镜](#)
 
@@ -250,6 +252,9 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 
 德国眼球追踪眼镜制造商 SensoMotoric Instruments，现在团队已经被 Apple 收购。
 
+[uSens Fingo](https://en.usens.com/products/fingo/)
+
+类似于 LeapMotion 的手势交互硬件。
 
 
 ## 场景重建/3D 扫描硬件

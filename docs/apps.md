@@ -2,11 +2,17 @@
 
 看看别人在用 AR 做什么。
 
-## AR导航
+## AR 导航导览
+[商汤 SenseInception](#)
+
+
+[华为河图](https://consumer.huawei.com/cn/press/news/2019/huawei-cyberverse-a-new-world/)
+
+19年8月公布之后，在2020年随着新手机P40发布了公测版本，可是在室外指定区域浏览AR内容并进行AR导航；首批支持的地点为：上海南京东路步行街与外滩、端煌莫高窟。
 
 [百度地图](#)
 
-百度地图联合泰山景区发布AR智能导览景区产品，此前百度也推出过复原圆明园的 AR 效果。
+百度地图联合泰山景区发布AR智能导览景区产品，此前百度也推出过复原圆明园的 AR 效果。2020年5月，DuMix AR 联合百度推出了室内导航[案例](https://dy.163.com/v2/article/detail/FCMGT9T205119CJA.html)。
 
 ## 巡检、维修
 
@@ -86,7 +92,7 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 [网易戏精](https://xijing.netease.com/)
 
-网易人工智能旗下的一款创意短视频社区。（19年团队解散，停止更新）
+网易人工智能事业部旗下的一款创意短视频社区。（19年4月团队解散，停止更新）
 
 [美图秀秀](https://itunes.apple.com/cn/app/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80/id416048305?mt=8)
 
@@ -103,3 +109,5 @@ Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以�
 
 ## 试验性项目
 [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/)
+
+2020年5月，开始支持 HoloLens2了。
