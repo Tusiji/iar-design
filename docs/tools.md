@@ -22,6 +22,9 @@
 
 Apple 在 WWDC2019 上发布的入门的 AR 内容制作工具，支持 Mac 和 iOS 设备。兔斯霁在体验后写了[一篇汇总+视频演示](https://zhuanlan.zhihu.com/p/84478984)
 
+[Torch AR](https://www.torch.app/)
+
+一款 iPad 应用，可以创建场景并实时在空间中摆放3D资源并预览。没有上中国区Sotre。
 
 
 ## 软件工具

@@ -5,7 +5,7 @@
 PS：因为内容实在太多，兔斯霁随机挑选了一些。
 
 ## 艺术创意
-[「AR」T](https://www.apple.com/cn/today/feature/augmentedrealities/)
+[Apple「AR」T](https://www.apple.com/cn/today/feature/augmentedrealities/)
 
 Today at Apple 的新课程，介绍 AR 在艺术创意领域的应用。 兔斯霁也前往 Apple Store 参与了课程并[分享体验](https://zhuanlan.zhihu.com/p/80493387)。
 
