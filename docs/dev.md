@@ -56,6 +56,13 @@ Infinity 目前没有公开版的 SDK。
 [京东 AR 开放平台](https://ar.jd.com/)
 
 
+## LBS AR 平台
+
+[Google Maps Platform 实景游戏解决方案](https://cloud.google.com/maps-platform/gaming)
+
+Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真实的地图数据进行创作、开发AR游戏等。（AR下个目标就是增强世界了WOW👍）
+
+
 ## 人脸特效 SDK
 
 [MODIFACE](http://modiface.com/)
