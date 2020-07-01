@@ -70,6 +70,9 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 [Adobe Project Aero](https://www.adobe.com/products/projectaero.html)
 
+[MarK AR](http://mark.app)
+
+iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦的场景跟 AR 结合还是比较顺理成章的。不过目前只有 Android 版本。
 
 ## 互动营销
 

@@ -8,7 +8,9 @@
 >iAR Design 原名为 AR Design Club，由于2019年8月23日变更域名（iar.design）而改名。
 
 ## 反馈与合作
-若你发现文章内容有错误，或是想提供新的内容给 iAR Design，可直接联系兔斯霁。此外，你也可以在本项目的 [Github](https://github.com/Tusiji/ar-design-club) 上进行编辑。
+若你发现文章内容有错误，或是想提供新的内容给 iAR Design，可直接[提交 Issue](https://github.com/Tusiji/iar-design/issues) 或联系兔斯霁。此外，你也可以在 [Github](https://github.com/Tusiji/ar-design-club) 上提交。
+
+
 
 ## 分享与版权
 - 欢迎转载分享给更多人，同时希望能够在转载的文章中提供本站链接。
@@ -16,6 +18,6 @@
 
 ## 联系方式
 - Gmail: lang7779698@gmail.com
-- 知乎：https://www.zhihu.com/people/tusiji
+- Twitter: TusijiLCL
 
 Made with ❤️ by Tusiji🐰
