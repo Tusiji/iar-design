@@ -30,5 +30,6 @@
 
 兔斯霁也为大家进行了整理:
 
+- [2020Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/158683385)
 - [2019Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/66412302)
 - [2018Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/38484401)
