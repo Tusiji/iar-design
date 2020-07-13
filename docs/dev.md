@@ -71,6 +71,12 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 
 [FaceUnity](https://www.faceunity.com)
 
+## 肢体 SDK
+
+[Vyking](https://www.vyking.io/index_cn.html)
+
+聚焦与脚步的识别检测跟踪，主要用于AR球鞋试穿。
+
 
 ## Web AR
 
