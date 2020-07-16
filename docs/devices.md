@@ -22,7 +22,7 @@
 
 [HiAR G100](https://www.hiscene.com/detail-glasses/)
 
-国内首款双目 AR 眼镜，兔斯霁参与了定制软件的研发。目前已经发布第二代产品 [HiAR G100](https://www.hiscene.com/g200/)，形态也变为分体形式。
+国内首款双目 AR 眼镜，兔斯霁参与了定制软件的研发。目前已经发布第二代产品 [HiAR G200](https://www.hiscene.com/g200/)，形态也变为分体形式。
 
 [Epson Moverio](https://epson.com/moverio-augmented-reality-smart-glasses)
 
