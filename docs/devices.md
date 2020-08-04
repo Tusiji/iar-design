@@ -118,6 +118,14 @@ Project Live Maps
 
 太平洋未来科技出品。（不过这外观，感觉抄袭成分居多呀）
 
+[KURA AR](https://www.kura.tech/products)
+
+从官网的宣传看来，感觉不是一个靠谱的产品。官网直接盗用hololens的图片
+
+[理光智能眼镜](https://www.ricoh.com/release/2020/0803_1/)
+
+一款超轻量级的双目智能眼镜，只有49g，目前只是原型机阶段。
+
 
 ## 单目智能眼镜（单显示屏）
 
@@ -149,7 +157,7 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 [North Focals](https://www.bynorth.com/focals)
 
-这款单目设备的光学成像方式比较特殊，直接在镜片上投影。后来还买了 Intel Vaunt AR 眼镜的相关技术。
+这款单目设备的光学成像方式比较特殊，直接在镜片上投影；后来还买了 Intel Vaunt AR 眼镜的相关技术。在20年7月份，确认已经被 Google 受够了，估计是为了补足 Google Glass 吧。
 
 [MAD Gaze](http://madgaze.com/)
 
@@ -158,6 +166,10 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 [Form Swim Goggles](https://www.formswim.com/)
 
 前 Recon 团队成员搞的新项目，主打智能泳镜。（其实 Recon 最早也是专注骑行运动）
+
+[酷派 Xview](https://www.coolpad.com/)
+
+曾经的「中华酷联」之一的酷派也发布了一款光波导的智能眼镜，然而这款设备还是单目光学镜片，所以使用场景比较有限；虚实融合更是不可能了。
 
 
 
