@@ -1,9 +1,11 @@
 # AR 软件与应用
 
-看看别人在用 AR 做什么。
+看看别人在用 AR 做什么。🤔
 
 ## AR 导航导览
-[商汤 SenseInception](#)
+[商汤 SenseMARS 平台](#)
+
+案例：[西湖AR导航导览](https://mp.weixin.qq.com/s/KGftgrBm6dKjuVnD6_C_XA)
 
 
 [华为河图](https://consumer.huawei.com/cn/press/news/2019/huawei-cyberverse-a-new-world/)
@@ -13,6 +15,19 @@
 [百度地图](#)
 
 百度地图联合泰山景区发布AR智能导览景区产品，此前百度也推出过复原圆明园的 AR 效果。2020年5月，DuMix AR 联合百度推出了室内导航[案例](https://dy.163.com/v2/article/detail/FCMGT9T205119CJA.html)。
+
+[搜狗地图](https://tech.qq.com/a/20200109/080075.htm)
+
+20年1月发布，算是国内最早的驾驶路线AR导航，不过需要通过行车记录仪获取视频画面。兔斯霁觉得基于VST的AR导航在实用性和安全性存在缺点，但觉得产品设计还是蛮用心的，利用行车记录仪不仅可以获得更佳宽广的画面，也不需要单独再安装手机支持，直接CarPlay就可显示在车机上。
+
+[高德地图](https://www.cnbeta.com/articles/tech/1018051.htm)
+
+20年8月发布，Android优先提供。
+
+[腾讯AR导航](https://yivian.com/news/77873.html)
+
+20年9月对外公开，后续会直接搭载在车机上而非腾讯地图。
+
 
 ## 巡检、维修
 
@@ -72,7 +87,8 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 [MarK AR](http://mark.app)
 
-iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦的场景跟 AR 结合还是比较顺理成章的。不过目前只有 Android 版本。
+iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦场景跟 AR 结合还是比较顺理成章的。不过目前只有 Android 版本，同时也受到疫情影响而暂停了项目。
+
 
 ## 互动营销
 
@@ -82,7 +98,7 @@ iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦的场景跟 AR 结合�
 
 [blippAR](https://www.blippar.com/)
  
- 可惜，传闻也快死了。2018/12/20
+ 18年12月，传闻也快死了。
 
 
 
@@ -92,10 +108,9 @@ iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦的场景跟 AR 结合�
 
 最早基于人脸检测做了的“吐彩虹”效果，现已具备 SLAM、手势等；近期（201904）又新推出了 [Scan](https://techcrunch.com/2019/04/04/snapchat-scan-platform/) 功能，可识别数学题目、地标建筑等等。
 
-
 [网易戏精](https://xijing.netease.com/)
 
-网易人工智能事业部旗下的一款创意短视频社区。（19年4月团队解散，停止更新）
+网易人工智能事业部旗下的一款创意短视频社区。19年4月团队解散，停止更新。
 
 [美图秀秀](https://itunes.apple.com/cn/app/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80/id416048305?mt=8)
 
@@ -108,6 +123,19 @@ Apple 随 iPhone X 发布的一个人脸表情功能，利用自带的深感摄�
 [AR Sticker on Pixel camera](https://www.youtube.com/watch?v=DoS7VwKd0Ys)
 
 Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以将虚拟的物体叠加到现实空间。自带多个IP的素材。
+
+[RakugakiAR](https://apps.apple.com/hk/app/rakugakiar/id1515215584)
+
+一款来自日本的 app，可以抠取纸上绘制的图形并3D化，并结合其他互动效果
+
+
+## 教育类
+
+一抓一大把，这边列举一些代表性的。
+
+[Elements 4D](https://www.kickstarter.com/projects/daqri/elements-4d-interactive-blocks/posts)
+
+当年算是内容制作不错的 app。
 
 
 ## 试验性项目

@@ -6,7 +6,7 @@
 
 [HoloLens](https://www.microsoft.com/microsoft-hololens/en-us)
 
-目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 较小，但是整体的完成度很高，SLAM 技术很牛逼。内容方面支持原生 Holographic app，扩展支持 UWP。
+目前已知最成熟的 AR 智能眼镜（头盔），虽然 FOV 不大，但是整体的完成度很高，SLAM 技术很牛逼。内容方面支持原生 Holographic app 并扩展支持 UWP，开发环境友好。
 
 ?> FOV，全称 Field of View，视场角。
 
@@ -26,15 +26,13 @@
 
 [Epson Moverio](https://epson.com/moverio-augmented-reality-smart-glasses)
 
-目前已经出到3代机型（不含小改款），硬件上每一代进步都很大，但软件上就只是一个原生的 Android 系统，操作非常不便。
-
-近期推出了可连接手机的 BT-30C 产品线，这可能也是后续分体式 AR 眼镜的一种形态。2019/5
+目前已经出到3代机型（不含小改款），硬件上每一代进步都很大，但软件上就只是一个原生的 Android 系统，操作非常不便。19年5月，又推出了可连接手机的 BT-30C 产品线，这可能也是后续分体式 AR 眼镜的一种形态。
 
 [BMW MINI AR GLASSES](http://www.bmwgroupdesignworks.com/work/mini-ar-glasses/)
 
 [ODG](http://www.osterhoutgroup.com/home)
 
-好像要凉凉了。 2018/12
+18年12月的新闻，好像要凉凉了
 
 [Air Glasses](http://www.atheerair.com/smartglasses)
 
@@ -52,7 +50,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [DAQRI](https://daqri.com/)
 
-好像要凉凉了。2019/09
+19年9月的新闻，好像要凉凉了。
 
 [GlassUp](http://www.glassup.net/en/)
 
@@ -102,9 +100,9 @@ Magic Leap 今年在 YouTube 上发了一系列“风骚”的 AR Demo，都是�
 
 [Apple Glass](#)
 
-各种新闻都在猜测 Apple 正在开发 AR 眼镜，包括硬件供应链、专利公开、招募人员都能从侧面印证。
+18年，各种新闻都在猜测 Apple 正在开发 AR 眼镜，包括硬件供应链、专利公开、招募人员都能从侧面印证。
 
-2020年5月，又出现各种[爆料文章](https://www.sohu.com/a/396531937_104421)，只是兔斯霁觉得都不怎么靠谱。
+20年5月，又出现各种[爆料文章](https://www.sohu.com/a/396531937_104421)，只是兔斯霁觉得都不怎么靠谱。
 
 [Facebook 的 AR 眼镜](#)
 
@@ -120,7 +118,7 @@ Project Live Maps
 
 [KURA AR](https://www.kura.tech/products)
 
-从官网的宣传看来，感觉不是一个靠谱的产品。官网直接盗用hololens的图片
+从官网的宣传看来，感觉不是一个靠谱的产品。官网直接盗用 HoloLens 的图片。
 
 [理光智能眼镜](https://www.ricoh.com/release/2020/0803_1/)
 
@@ -147,7 +145,7 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 [RealWear HMT-1](https://www.realwear.com/)
 
-一款面向工业工作场景的设备，非常「接地气」。
+一款面向工业工作场景的头戴显示设备设备，非常「接地气」。
 
 [联想 New Glass](http://www.lenovo-ar.com/c200.html)
 
@@ -170,7 +168,6 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 [酷派 Xview](https://www.coolpad.com/)
 
 曾经的「中华酷联」之一的酷派也发布了一款光波导的智能眼镜，然而这款设备还是单目光学镜片，所以使用场景比较有限；虚实融合更是不可能了。
-
 
 
 ## AR 盒子
@@ -203,7 +200,7 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 近期被 Apple 收购了。
 
 
-## 智能手机
+## 智能手机（移动设备）
 
 [Google Project Tango(已被 Google 放弃)](https://get.google.com/tango/)
 
@@ -220,6 +217,10 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Go
 [Qualcomm Extended Reality](https://www.qualcomm.com/invention/extended-reality)
 
 这并不是具体的一款设备，而是高通基于自己的硬件平台推出一整套 XR 方案。像 Nreal、Rokid 都是这个方案下的产物。
+
+[iPad Pro](#)
+
+终于搭载了雷达传感器。
 
 
 ## 智能投影仪
@@ -286,9 +287,7 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 
 [Spectacles](https://www.spectacles.com/)
 
-由 Snapchat 发布的智能眼镜。
-
-最近（2019/08）Snapchat 又发布了第三代产品，配备了2个摄像头，可以拍摄并编辑出简单的3D照片等效果。
+由 Snapchat 发布的智能眼镜。在19年8月，Snapchat 又发布了第三代产品，配备了2个摄像头，可以拍摄并编辑出简单的3D照片等效果。
 
 [TONOT](https://tonot.com/home)
 
@@ -300,7 +299,7 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 
 [Amazon Echo Frames](https://www.theverge.com/2019/9/25/20883892/amazon-echo-frames-smart-glasses-features-specs-alexa)
 
-集成了自家的 Alexa 语音助手
+集成了自家的 Alexa 语音助手。
 
 
 ## 展示装置

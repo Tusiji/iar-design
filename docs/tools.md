@@ -69,3 +69,9 @@ Google Daydream 团队推出的设计模版（Sketch），配合[视频](https:/
 
 Facebook 推出的 VR 原型设计模板，包含 Sketch+PSD 文档以及一个 Unity3D 工程。
 
+
+## 场景重建
+
+[3d Scanner App]()
+
+配合 iPad Pro 的雷达传感器使用，可以扫描空间并重建。
