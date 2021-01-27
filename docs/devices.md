@@ -62,6 +62,8 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 内部代号skyblue，Lumus的光学；软件系统估计跟晨星类似。
 
+在CES2021期间，联想发布了新的 [ThinkReality A3](https://www.lenovo.com/us/en/thinkrealitya3)，基本就是一款头戴式显示器了，插电脑用，应该也可以用手机吧。
+
 [影创科技](http://www.shadowcreator.com/home.html)
 
 [微软 MR 设备](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-mixed-reality)
@@ -75,6 +77,9 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 [ROKID GLASS](http://glass.rokid.com/)
 
 国内团队 Rokid 的 AR 眼镜，在 CES 2018 上亮相过。2020年初也随着疫情推出一些测温相关的应用产品（联合亮风台），同时也推出了新产品线 [ROKID Vision](https://www.rokid.com/products/ar-glass/rokid-vision/)，基于上海海思发布 XR 芯片平台。
+
+[Rokid Vision](https://www.rokid.com/products/ar-glass/rokid-vision/)
+
 
 [VIVO AR 眼镜](http://www.sohu.com/a/323072384_395737)
 
