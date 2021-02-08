@@ -129,6 +129,8 @@ Project Live Maps
 
 一款超轻量级的双目智能眼镜，只有49g，目前只是原型机阶段。
 
+[ThirdEye](https://www.thirdeyegen.com/x2-smart-glasses)
+
 
 ## 单目智能眼镜（单显示屏）
 
@@ -174,6 +176,10 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 曾经的「中华酷联」之一的酷派也发布了一款光波导的智能眼镜，然而这款设备还是单目光学镜片，所以使用场景比较有限；虚实融合更是不可能了。
 
+[影目INMO](https://www.leiphone.com/news/202101/th9KgC7FlS87JvzC.html)
+
+原酷派AR事业部拆分独立出来的。（嘛，兔斯霁也经历过裁员，部门老大给力点一般就以这种形式出来单干，团队也能保留。祝福！）
+
 
 ## AR 盒子
 
@@ -203,6 +209,9 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 [Totem](https://www.vrvana.com)
 
 近期被 Apple 收购了。
+
+[佳能 MREAL S1 Special Site](https://www.canon-its.co.jp/files/user/solution/mr/lp/)
+
 
 
 ## 智能手机（移动设备）
@@ -289,6 +298,8 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 
 
 ## 智能眼镜
+
+这些产品没有配备显示屏，所以单独整理为智能眼镜。
 
 [Spectacles](https://www.spectacles.com/)
 
