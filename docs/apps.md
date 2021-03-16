@@ -58,6 +58,10 @@
 
 这类产品是目前 AR 设备中经常被拿来背书的功能。
 
+[Microsoft Mesh](https://www.microsoft.com/en-us/mesh)
+
+微软现在的决策很明确，我不管你用哪个平台，你只要用我的服务即可。而 Mesh 也是有不小的野心，横跨多端多类型设备的体验式协作产品。
+
 [Skype on HoloLens](https://www.microsoft.com/en-us/hololens/apps/skype)
 
 Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，还可以实时在空间中绘制标示、箭头，摆放图片等。
@@ -81,13 +85,18 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 老牌的协作软件 TeamViewer 也开始推 AR 产品了。
 
 
-## 创造&创意
+## 艺术&创意
 
 [Adobe Project Aero](https://www.adobe.com/products/projectaero.html)
 
 [MarK AR](http://mark.app)
 
 iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦场景跟 AR 结合还是比较顺理成章的。不过目前只有 Android 版本，同时也受到疫情影响而暂停了项目。
+
+[Google AR Synth](https://artsandculture.google.com/story/7AUBadCIL5Tnow)
+
+AR音乐合成器
+
 
 
 ## 互动营销
@@ -128,10 +137,12 @@ Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以�
 
 一款来自日本的 app，可以抠取纸上绘制的图形并3D化，并结合其他互动效果
 
+## 玩具类
+
+[乐高 Vidiyo 系列](https://cn.engadget.com/lego-vidiyo-sets-announced-010049298.html)
+
 
 ## 教育类
-
-一抓一大把，这边列举一些代表性的。
 
 [Elements 4D](https://www.kickstarter.com/projects/daqri/elements-4d-interactive-blocks/posts)
 
