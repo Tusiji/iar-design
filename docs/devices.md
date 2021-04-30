@@ -12,7 +12,7 @@
 
 [HoloLens2](https://www.microsoft.com/zh-cn/hololens)
 
-全新的 HoloLens 2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。目前业界最高水准！
+全新的 HoloLens2 终于在 MWC2019 上发布了！！！这一代产品不再那么科幻，但更加落地务实；同时提供了一系列第一方 AR 商业软件，确实很像纳德拉时代微软的风格。可以说是目前业界最高水准，没有之一！同时在21年4月份，HoloLens2 又推出了工业版本。
 
 此前第二代 HoloLens 曝光的[新闻](https://www.theverge.com/2018/10/11/17964480/microsoft-hololens-nasa-prototype-headset-video-leak)。
 
@@ -73,6 +73,10 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 [Magic Leap one](https://www.magicleap.com/)
 
 饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的产品，2018年早期还将推出内容创作平台。
+
+[Magic Leap 2](#)
+
+新一代在视场角不变的情况下，尺寸将缩小一半，重量减少20%，预计21年Q4公布。
 
 [ROKID GLASS](http://glass.rokid.com/)
 

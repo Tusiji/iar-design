@@ -84,6 +84,10 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 老牌的协作软件 TeamViewer 也开始推 AR 产品了。
 
+[Proximie](https://proximie.com/)
+
+AR远程手术指导平台.
+
 
 ## 艺术&创意
 
@@ -116,6 +120,10 @@ AR音乐合成器
 [Snapchat](https://www.snapchat.com/)
 
 最早基于人脸检测做了的“吐彩虹”效果，现已具备 SLAM、手势等；近期（201904）又新推出了 [Scan](https://techcrunch.com/2019/04/04/snapchat-scan-platform/) 功能，可识别数学题目、地标建筑等等。
+
+[Apple Clips](https://www.apple.com/clips/)
+
+Apple Clips 早先就有推出过人体融合的特效，随着iOS14.5的发布，特别为配备Lidar传感器的设备推出了 AR 特效，效果还是很不错的。
 
 [网易戏精](https://xijing.netease.com/)
 
