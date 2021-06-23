@@ -149,6 +149,12 @@ Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以�
 
 [乐高 Vidiyo 系列](https://cn.engadget.com/lego-vidiyo-sets-announced-010049298.html)
 
+## 场景演示
+
+[Express Transit for Apple Pay](https://transit.applepay.apple/new-york#callout-quicklook)
+
+Apple Pay 在纽约地铁推广交通卡功能时提供的一个 AR 体验。
+
 
 ## 教育类
 
