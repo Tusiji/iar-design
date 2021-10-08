@@ -1,7 +1,7 @@
 # AR 开发
 AR 应用的开发，可以很难，也可以很简单。目前，市面上也已经有很多 AR SDK，即使你不具备编程能力，也可以开发简单的 AR 应用。
 
-## 通用 AR SDK 
+## 通用 AR SDK / 开发平台 
 
 [ARToolKit](https://artoolkit.org/)
 
@@ -13,25 +13,23 @@ AR 应用的开发，可以很难，也可以很简单。目前，市面上也�
 
 [Apple ARKit](https://developer.apple.com/arkit/)
 
-Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快速稳定的运动定位、平面和边界的估计等功能。之前的同事第一时间写了一篇简单的评价，[点击这里](https://www.zhihu.com/question/60726864/answer/179446682)查看。
+Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快速稳定的运动定位、平面和边界的估计等功能。以前的同事第一时间写了一篇简单的评价，[点击这里](https://www.zhihu.com/question/60726864/answer/179446682)查看。
 
 [Google ARCore](https://developers.google.com/ar/)
 
 Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基本对飙 ARKit。（Google Tango 表示尴尬了）
 
+[商汤 SenseAR 平台](https://www.sensetime.com/internet/89)
+
 [HiAR SDK](https://www.hiscene.com/sdk/)
 
-国内技术团队[亮风台](http://www.hiscene.com)发布的 AR SDK，中文化支持和文档。
+国内技术团队[亮风台](http://www.hiscene.com)发布的 AR SDK，中文化支持和文档。目前亮风台已经全面转向 AR 硬件方向，故 SDK 已经不再对外公开。
 
 [Sony Smart AR(日语)](http://www.sonydna.com/sdna/solution/SmartAR_SDK.html)
 
 也凉凉啦，哎！「2019年3月31日をもちまして、"SmartAR® SDK" の販売を終了いたします。」
 
 索尼大法的 AR SDK，早在2012年就对外发布过演示，而这些技术基本都用在了自家的产品中。直到2016年才正式对外发布 AR SDK。
-
-[商汤 SenseAR 平台](https://www.sensetime.com/internet/89)
-
-近期推出了 SenseMoji 功能。
 
 [网易洞见 SDK](https://dongjian.163.com/)
 
@@ -54,6 +52,10 @@ Infinity 目前没有公开版的 SDK。
 [太虚 AR SDK](https://www.voidar.net/)
 
 [京东 AR 开放平台](https://ar.jd.com/)
+
+## AR 内容平台
+
+[echoAR](https://docs.echo3d.co/)
 
 
 ## LBS AR 平台
