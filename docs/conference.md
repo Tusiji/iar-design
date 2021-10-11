@@ -19,6 +19,8 @@
 
 此会议貌似已经取消了。
 
+[VALSE](http://valser.org/)
+
 
 ## 开发者会议
 
@@ -29,7 +31,6 @@
 - Microsoft Build
 
 兔斯霁也为大家进行了整理:
-
 - [2021Q1Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/413532345)
 - [2020Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/158683385)
 - [2019Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/66412302)
