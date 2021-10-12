@@ -70,13 +70,13 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 这个不是 AR 设备，但是也从属于微软的 MR 平台，还是值得留意。
 
-[Magic Leap one](https://www.magicleap.com/)
+[MagicLeap one](https://www.magicleap.com/)
 
 饱受争议的 Magicleap 终于拿出了自己的第一代产品 Magic Leap One，官方号称是面向 Creator 的产品，2018年早期还将推出内容创作平台。
 
-[Magic Leap 2](#)
+[MagicLeap 2](https://www.linkedin.com/pulse/my-first-year-magic-leap-opportunity-ahead-magic-leap-inc-/?published=t&trackingId=DNZDwreXZU5bKwvTrpdWKw%3D%3D)
 
-新一代在视场角不变的情况下，尺寸将缩小一半，重量减少20%，预计21年Q4公布。
+新一代的 MagicLeap 2 按照预期在21年Q4透露了最新的官方信息，计划面向工业方向。
 
 [ROKID GLASS](http://glass.rokid.com/)
 
@@ -91,7 +91,7 @@ Meta2 的开箱试用体验报告可[点击这里查看](https://zhuanlan.zhihu.
 
 [OPPO AR 眼镜](http://www.7tin.cn/news/138019.html)
 
-发布于19年12月OPPO未来科技大会，双目光波导方案，支持手势操作。然而从演示的内容与界面判断，软件方面还很薄弱，估计也就只是跑了几个Demo，不过已经很不错了。（PS：据说那个太阳系演示，原型是在HoloLens上做的，内容供应商开发时都没拿到硬件）
+发布于19年12月 OPPO 未来科技大会，双目光波导方案，支持手势操作。然而从演示的内容与界面判断，软件方面还很薄弱，估计也就只是跑了几个 Demo，不过已经很不错了。（PS：据说那个太阳系演示，原型是在 HoloLens 上做的，内容供应商开发时都没拿到硬件）
 
 [Magic Leap Project North Star](http://blog.leapmotion.com/northstar/)
 
