@@ -19,7 +19,9 @@ Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快�
 
 Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基本对飙 ARKit。（Google Tango 表示尴尬了）
 
-[商汤 SenseAR 平台](https://www.sensetime.com/internet/89)
+[商汤 SenseAR 平台](https://openar.sensetime.com/)
+
+[商汤 SenseMARS 火星混合现实平台](https://www.sensetime.com/cn/product-business?categoryId=80)
 
 [HiAR SDK](https://www.hiscene.com/sdk/)
 
@@ -32,6 +34,8 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 索尼大法的 AR SDK，早在2012年就对外发布过演示，而这些技术基本都用在了自家的产品中。直到2016年才正式对外发布 AR SDK。
 
 [网易洞见 SDK](https://dongjian.163.com/)
+
+[Niantic Lightship](https://lightship.dev/)
 
 [腾讯 AR 开放平台](http://tar.qq.com/)
 
@@ -46,8 +50,6 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 [Kudan](https://www.kudan.eu/)
 
 [Infinity AR](http://www.infinityar.com/zh)
-
-Infinity 目前没有公开版的 SDK。
 
 [太虚 AR SDK](https://www.voidar.net/)
 

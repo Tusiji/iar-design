@@ -36,11 +36,15 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 [Harry Potter: Wizards Unite](https://www.harrypotterwizardsunite.com)
 
-又是 Niantic 的游戏，LBS AR 结合哈利波特 IP 的产物。（兔斯霁个人不看好这款游戏）
+《哈利·波特：巫师联盟》是 Niantic 出品的 LBS AR 游戏，结合哈利波特 IP。（兔斯霁个人不看好这款游戏）
+
+果然，此游戏在2022年1月31日就要关闭啦！
 
 [MineCraft Earth](https://www.youtube.com/watch?v=UiX0dVXiGa8)
 
-AR 版我的世界，Build 2019 中亮相。
+《我的世界：地球》可理解为 AR 版《我的世界》，Build 2019 中亮相。
+
+最终还是在2021年6月下线了。
 
 [Ingress](https://www.ingress.com/)
 

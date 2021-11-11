@@ -26,7 +26,7 @@
 
 几家互联网巨头每年的发布会，都会有 AR 相关的内容，建议关注：
 - Apple WWDC
-- Facebook F8
+- Facebook Connect（Facebook 改名 Meta 后估计后续有很大动作）
 - Google IO
 - Microsoft Build
 
