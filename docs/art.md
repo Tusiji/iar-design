@@ -50,6 +50,10 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 基于地理信息的 AR 游戏，早期在 Google 内孵化，后来独立成为公司。《Pokemon Go》就是他家跟任天堂一起开发的。
 
+[Pikmin Bloom](https://funglr.games/zh/news/how-to-play-pikmin-bloom/)
+
+又是与任天堂合作，不过兔斯霁对这个IP了解不多，希望能成功吧。
+
 [Mark AR](https://36kr.com/p/5247102)
 
 多人 AR 互动的墙面涂鸦社交游戏，基于 Google Cloud Anchor 技术。
@@ -76,7 +80,7 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 
 FUI，全称 Fantasy User Interface，常常出现于各种科幻电影中，让观众觉得很高大上。
 
-一个叫 [Noteloop](https://www.noteloop.com/kit/fui/) 的网站上收录很多 FUI 的案例，强烈推荐。
+一个叫 [Noteloop](https://www.noteloop.com/kit/fui/) 的网站上收录很多 FUI 的案例，强烈推荐。
 
 
  
