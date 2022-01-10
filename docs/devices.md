@@ -205,7 +205,6 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 
 
 
-
 ## 非光学透过式 AR 头盔
 
 PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界的画面然后显示到屏幕上。
@@ -216,9 +215,29 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 
 [佳能 MREAL S1 Special Site](https://www.canon-its.co.jp/files/user/solution/mr/lp/)
 
+## 智能眼镜
+
+这些产品没有配备显示屏，所以单独整理为智能眼镜。
+
+[Spectacles](https://www.spectacles.com/)
+
+由 Snapchat 发布的智能眼镜。在19年8月，Snapchat 又发布了第三代产品，配备了2个摄像头，可以拍摄并编辑出简单的3D照片等效果。
+
+[TONOT](https://tonot.com/home)
+
+产品基本走 Spectacles 的路子，跟腾讯微视联名出过几款眼镜。
+
+[华为 X Gentle Monster](https://tech.sina.com.cn/mobile/n/n/2019-08-17/doc-ihytcern1433786.shtml)
+
+华为与 Gentle Monster 合作款。
+
+[Amazon Echo Frames](https://www.theverge.com/2019/9/25/20883892/amazon-echo-frames-smart-glasses-features-specs-alexa)
+
+集成了自家的 Alexa 语音助手。
 
 
-## 智能手机（移动设备）
+
+## TOF手机（移动设备）
 
 [Google Project Tango(已被 Google 放弃)](https://get.google.com/tango/)
 
@@ -269,7 +288,7 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 车载式的投影装置，将导航信息等投射在前挡风玻璃。
 
 
-## 智能交互硬件
+## 交互硬件
 
 [Leap Motion](https://www.leapmotion.com/)
 
@@ -301,29 +320,16 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 [Intel RealSense](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/realsense-overview.html)
 
 
-## 智能眼镜
-
-这些产品没有配备显示屏，所以单独整理为智能眼镜。
-
-[Spectacles](https://www.spectacles.com/)
-
-由 Snapchat 发布的智能眼镜。在19年8月，Snapchat 又发布了第三代产品，配备了2个摄像头，可以拍摄并编辑出简单的3D照片等效果。
-
-[TONOT](https://tonot.com/home)
-
-产品基本走 Spectacles 的路子，跟腾讯微视联名出过几款眼镜。
-
-[华为 X Gentle Monster](https://tech.sina.com.cn/mobile/n/n/2019-08-17/doc-ihytcern1433786.shtml)
-
-华为与 Gentle Monster 合作款。
-
-[Amazon Echo Frames](https://www.theverge.com/2019/9/25/20883892/amazon-echo-frames-smart-glasses-features-specs-alexa)
-
-集成了自家的 Alexa 语音助手。
-
-
 ## 展示装置
 
 [Adobe Project Glasswing](https://www.youtube.com/watch?v=0_Pkbz4eAV8)
 
+## AR眼镜光学
 
+[Lumus](http://lumusvision.com/)
+
+[耐德佳](http://nedglass.com/)
+
+[灵犀微光](http://www.lx-ar.com/#/)
+
+[珑璟光电](https://www.lochn.com/)
