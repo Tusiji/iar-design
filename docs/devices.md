@@ -184,6 +184,10 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 原酷派AR事业部拆分独立出来的。（嘛，兔斯霁也经历过裁员，部门老大给力点一般就以这种形式出来单干，团队也能保留。祝福！）
 
+[TCL LEINIAO AR](https://tcl-eu.com/CES2022/technology_leiniao)
+
+TCL 在 CES2022 上发布的产品。
+
 
 ## AR 盒子
 
@@ -202,7 +206,6 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 [Lenovo Mirage AR headset](http://www3.lenovo.com/us/en/jedichallenges)
 
 联想结合《星球大战》IP 出了一套“高级版”AR 盒子，配套有控制装置（光剑）和定位跟踪的外设。而后在19年9月，又推出了「漫威英雄次元」的套装。（为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算）
-
 
 
 ## 非光学透过式 AR 头盔
@@ -234,7 +237,6 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 [Amazon Echo Frames](https://www.theverge.com/2019/9/25/20883892/amazon-echo-frames-smart-glasses-features-specs-alexa)
 
 集成了自家的 Alexa 语音助手。
-
 
 
 ## TOF手机（移动设备）
