@@ -26,6 +26,10 @@ Apple 在 WWDC2019 上发布的入门的 AR 内容制作工具，支持 Mac 和 
 
 一款 iPad 应用，可以创建场景并实时在空间中摆放3D资源并预览。没有上中国区Sotre。
 
+[Zappar Creative Studio](https://www.zappar.com/products/)
+
+当年算是最早的AR厂商之一。
+
 
 ## 软件工具
 

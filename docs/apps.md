@@ -2,6 +2,7 @@
 
 看看别人在用 AR 做什么。🤔
 
+
 ## AR 导航导览
 [商汤 SenseMARS 平台](#)
 
@@ -10,7 +11,7 @@
 
 [华为河图](https://consumer.huawei.com/cn/press/news/2019/huawei-cyberverse-a-new-world/)
 
-19年8月公布之后，在2020年随着新手机P40发布了公测版本，可是在室外指定区域浏览AR内容并进行AR导航；首批支持的地点为：上海南京东路步行街与外滩、端煌莫高窟。
+19年8月公布之后，在2020年随着新手机P40发布了公测版本，可是在室外指定区域浏览AR内容并进行AR导航；首批支持的地点为：上海南京东路步行街与外滩、敦煌莫高窟。
 
 [百度地图](#)
 
@@ -145,9 +146,10 @@ Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以�
 
 一款来自日本的 app，可以抠取纸上绘制的图形并3D化，并结合其他互动效果
 
-## 玩具类
+## 实体玩具
 
 [乐高 Vidiyo 系列](https://cn.engadget.com/lego-vidiyo-sets-announced-010049298.html)
+
 
 ## 场景演示
 
@@ -162,6 +164,9 @@ Apple Pay 在纽约地铁推广交通卡功能时提供的一个 AR 体验。
 
 当年算是内容制作不错的 app。
 
+## 医疗
+
+[MediView](https://mediview.com/)
 
 ## 试验性项目
 [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/)

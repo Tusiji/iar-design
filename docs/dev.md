@@ -1,4 +1,4 @@
-# AR 开发
+# AR 开发与解决方案
 AR 应用的开发，可以很难，也可以很简单。目前，市面上也已经有很多 AR SDK，即使你不具备编程能力，也可以开发简单的 AR 应用。
 
 ## 通用 AR SDK / 开发平台 
@@ -17,7 +17,7 @@ Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快�
 
 [Google ARCore](https://developers.google.com/ar/)
 
-Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基本对飙 ARKit。（Google Tango 表示尴尬了）
+Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基本对飙 ARKit。（Google Tango 表示尴尬了）
 
 [商汤 SenseAR 平台](https://openar.sensetime.com/)
 
@@ -55,10 +55,6 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 [京东 AR 开放平台](https://ar.jd.com/)
 
-## AR 内容平台
-
-[echoAR](https://docs.echo3d.co/)
-
 
 ## LBS AR 平台
 
@@ -66,6 +62,7 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真实的地图数据进行创作、开发AR游戏等。（AR下个目标就是增强世界了WOW👍）
 
+[Niantic Lightship](https://lightship.dev/)
 
 ## 人脸特效 SDK
 
@@ -74,6 +71,10 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 看名称也能猜到，它专为美妆品牌提供人脸 AR 技术
 
 [FaceUnity](https://www.faceunity.com)
+
+[Perfect 完美移动](https://www.perfectcorp.com/)
+ 
+ 提供美妆类 AR 解决方案。
 
 ## 肢体 SDK
 
@@ -87,6 +88,14 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 [WebXR Viewer](https://github.com/mozilla-mobile/webxr-ios)
 
 [A-FRAME](https://aframe.io/)
+
+[8th Wall](https://www.8thwall.com/)
+
+
+## AR 内容平台
+
+[echoAR](https://docs.echo3d.co/)
+
 
 ## 业内标准
 
