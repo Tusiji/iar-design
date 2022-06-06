@@ -58,6 +58,10 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 ## LBS AR 平台
 
+[ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
+
+在 Google IO 2022 上新推出的新功能，
+
 [Google Maps Platform 实景游戏解决方案](https://cloud.google.com/maps-platform/gaming)
 
 Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真实的地图数据进行创作、开发AR游戏等。（AR下个目标就是增强世界了WOW👍）
@@ -90,6 +94,8 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 [A-FRAME](https://aframe.io/)
 
 [8th Wall](https://www.8thwall.com/)
+
+2022年，8th Wall 团队正式加入 Niantic！
 
 
 ## AR 内容平台
