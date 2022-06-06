@@ -9,10 +9,14 @@
  - [AR 软件与应用](/apps)
  - [AR 开发](/dev)
  - [工具和资源](/tools)
+
+- AR 扩展信息
+ - [Metaverse 元宇宙](/metaverse)
  - [游戏与影视](/art)
  - [人物与团队](/genius)
  - [会议与组织](/conference)
- - [新闻媒体](/news)
+ - [新闻媒体](/press)
+
 
 - 关于
  - [关于 iAR Design](/about)
