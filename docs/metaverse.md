@@ -20,6 +20,8 @@
 
 [Gather](https://www.gather.town/)
 
+[Mozilla hubs](https://hubs.mozilla.com/)
+
 [网易瑶台](https://yaotai.163.com/)
 
 [百度息壤](https://vr.baidu.com/product/xirang)
