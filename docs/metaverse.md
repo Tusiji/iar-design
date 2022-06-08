@@ -1,8 +1,6 @@
 # Metaverse 元宇宙
 
-> 本页内容仍在建设中
-
-> Under construction
+> 本页内容仍在建设中 / Under Construction
 
 说实话，还没有想好 Metaverse 内容的结构，因为兔斯霁也还没有看懂这个事物。本页内容可能只是所谓的“Metaverse”或者其自身硬凑“Metaverse”概念。
 
@@ -27,6 +25,8 @@
 [百度息壤](https://vr.baidu.com/product/xirang)
 
 [51Meet](https://www.51aes.com/)
+
+[ANA SKY WHALE](https://www.anahd.co.jp/group/en/pr/202105/20210520.html)
 
 ## 大空间数字孪生
 
