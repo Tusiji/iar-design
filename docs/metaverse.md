@@ -12,6 +12,8 @@
 
 [Meta Horizon Worlds](https://www.oculus.com/horizon-worlds)
 
+[Microsoft Mesh](https://www.microsoft.com/en-us/mesh)
+
 [Roblox](https://www.roblox.com/)
 
 [Decentraland](https://decentraland.org/)
@@ -34,4 +36,6 @@
 
 日本政府的3D数字城市项目
 
-[51Woeld](https://www.51aes.com/)
+[51World](https://www.51aes.com/)
+
+[Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/#overview)
