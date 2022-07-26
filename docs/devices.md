@@ -135,6 +135,10 @@ Project Live Maps
 
 [ThirdEye](https://www.thirdeyegen.com/x2-smart-glasses)
 
+[雷鸟 Air](https://item.jd.com/10049299071589.html)
+
+由 TCL 团队孵化，主打消费级 AR 眼镜。
+
 
 ## 单目智能眼镜（单显示屏）
 
