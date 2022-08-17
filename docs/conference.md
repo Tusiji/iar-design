@@ -1,6 +1,6 @@
-# 会议与组织
+# 会议与组织 Conference
 
-## 学术会议
+## 学术会议 
 [ISMAR](http://www.ismar.net/)
 
 全称 International Symposium on Mixed and Augmented Reality。这是 [ISMAR 2017](http://www.ismar2017.org/) 的会议介绍。
@@ -22,7 +22,7 @@
 [VALSE](http://valser.org/)
 
 
-## 开发者会议
+## 开发者会议 Dev Conference
 
 几家互联网巨头每年的发布会，都会有 AR 相关的内容，建议关注：
 - Apple WWDC

@@ -1,4 +1,4 @@
-# 人物与团队
+# 人物与团队 Genius & Teams
 
 [Mark Billinghurst](https://www.linkedin.com/in/mark-billinghurst-4a636/) - Director at HIT Lab NZ
 

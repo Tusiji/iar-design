@@ -1,4 +1,4 @@
-# 欢迎
+# 欢迎 Hello
 
 ![](assets/logo_branding.png)
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## 如何开始
+## 如何开始 Get Started
 
 ?> [学习 AR 基础知识](/intro-ar)
 
@@ -26,7 +26,7 @@
 
 <br>
 
-## 捐赠
+## 捐赠 Buy me a coffee
 如果你喜欢本站内容，可[点击这里](/donate)赞助我一杯咖啡☕️，让我在咖啡店里多写一会儿。
 
 

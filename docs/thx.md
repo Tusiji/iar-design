@@ -1,4 +1,4 @@
-# 感谢
+# 感谢 Thanks
 
 - 感谢[凌海滨](http://www.dabi.temple.edu/~hbling/)老师提供相关帮助并授权部分文章。
 - 感谢[亮风台信息科技](http://hiscene.com)的小伙伴提供内容素材。
