@@ -2,10 +2,10 @@
 
 > 本页内容仍在建设中 / Under Construction
 
-说实话，还没有想好 Metaverse 内容的结构，因为兔斯霁也还没有看懂这个事物。本页内容可能只是所谓的“Metaverse”或者其自身硬凑“Metaverse”概念。
+说实话，我还没有想好 Metaverse 内容的结构，因为我还没有看懂这个事物。本页规整的内容可能只是所谓的 Metaverse 或官方硬凑 Metaverse 概念。
 
 
-## 一些文章 Posts
+## NFT
 [《NFT101》系列](https://nft101.lfgkids.com/)
 
 ## 社交&协作平台 Social Network & Collaboration Services
@@ -55,3 +55,9 @@
 ## 云渲染 Cloud Rendering
 
 [Azure 远程渲染 Remote Rendering](https://azure.microsoft.com/zh-cn/services/remote-rendering/#overview)
+
+## 现象级产品
+
+[Roblox]()
+
+[Play Together]()
