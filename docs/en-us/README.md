@@ -1,6 +1,8 @@
 # Getting Started
 
-![](assets/logo_branding.png)
+> Under Construction
+
+![](/assets/logo_branding.png)
 
 
 “iAR Design”是一个 AR 资源共享空间，也是一本帮助你入门 AR 的 Handbook。
@@ -20,7 +22,7 @@
 
 💡Tips：
 - **使用手机访问的朋友可以点击左下角「菜单按钮」查看目录。**
-- 如果你喜欢本站内容，可[点击这里](/donate)赞助我一杯咖啡☕️，让我在咖啡店里多写一会儿。
+- 如果你喜欢本站内容，可[点击这里](donate)赞助我一杯咖啡☕️，让我在咖啡店里多写一会儿。
 
 
 

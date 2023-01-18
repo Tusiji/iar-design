@@ -1,9 +1,8 @@
 # Basics
 
-
 ## What AR is？
 
-> 增强现实（Augmented Reality，简称 AR），是一种实时地计算摄影机影像的位置及角度并加上相应图像的技术，这种技术的目标是在屏幕上把虚拟世界套在现实世界并进行互动。这种技术估计由1990年提出。随着随身电子产品运算能力的提升，预期增强现实的用途将会越来越广。
+> Augmented reality (AR) is an interactive experience that combines the real world and computer-generated content. The content can span multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory.[1] AR can be defined as a system that incorporates three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects.
 
 *-Wikipedia*
 

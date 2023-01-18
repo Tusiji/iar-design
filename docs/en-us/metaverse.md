@@ -1,8 +1,6 @@
 # Metaverse
 
-> 本页内容仍在建设中 / Under Construction
-
-说实话，我还没有想好 Metaverse 内容的结构，因为我还没有看懂这个事物。本页规整的内容可能只是所谓的 Metaverse 或官方硬凑 Metaverse 概念。
+> Under Construction
 
 
 ## NFT
