@@ -1,8 +1,7 @@
-# 欢迎 Hello
+# Getting Started
 
 ![](assets/logo_branding.png)
 
->ardesign.club 启用全新域名 iar.design，还请收藏🥳
 
 “iAR Design”是一个 AR 资源共享空间，也是一本帮助你入门 AR 的 Handbook。
 
@@ -19,9 +18,8 @@
 
 <br>
 
-💡浏览提示：
+💡Tips：
 - **使用手机访问的朋友可以点击左下角「菜单按钮」查看目录。**
-- 本站外链内容以英文为主，且部分可能需要科学上网才能访问。
 - 如果你喜欢本站内容，可[点击这里](/donate)赞助我一杯咖啡☕️，让我在咖啡店里多写一会儿。
 
 
