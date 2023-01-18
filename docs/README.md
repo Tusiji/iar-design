@@ -1,4 +1,4 @@
-# 欢迎 Hello
+# 欢迎
 
 ![](assets/logo_branding.png)
 
