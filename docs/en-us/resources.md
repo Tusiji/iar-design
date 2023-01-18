@@ -1,6 +1,6 @@
-# 文档资源 Resources
+# Resources
 
-## 官方设计指南 Official Design Guides
+## Official Design Guides
 
 [HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
 
@@ -39,7 +39,7 @@ Google 语音交互设计文档。
 Magic Leap 官方文档中设计相关的指南。原文需要登录查看，[中文翻译点这里](doc-magic-leap-design)。
 
 
-## 设计文章 Posts
+## Posts
 
 [HoloLens Design Patterns by 8ninths（推荐）](http://8ninths.com/hololens-design-patterns/)
 
@@ -80,7 +80,7 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 [百度UXC：手机端空间级AR交互设计指南](http://mux.baidu.com/1211)
 
 
-## 图书 Books
+## Books
 [Designing for Mixed Reality](http://www.oreilly.com/design/free/designing-for-mixed-reality.csp)
 
 从基本的概念开始讲，具体设计方式讲得不多。（可免费下载电子书）
@@ -94,16 +94,11 @@ Leap Motion UX Team 对于 NUI 中菜单设计的思考。
 [三维用户界面：理论与实践](https://book.douban.com/subject/1792116/)
 
 
-## 视频 Videos
-
-!> 视频都来自 Youtube，请自备梯子。
+## Videos
 
 [Best practices to design AR applications (Google I/O '18)](https://www.youtube.com/watch?v=bNJJCREZgVM)
 
-Google IO 2018 上的 Session，推荐观看！
-
-[Rapid prototyping Google Glass - Tom Chi](https://www.youtube.com/watch?v=d5_h1VuwD6g
-)（中文字幕）
+[Rapid prototyping Google Glass - Tom Chi](https://www.youtube.com/watch?v=d5_h1VuwD6g)
 
 [The Dawn of the Age of Holograms - Alex Kipman](https://www.youtube.com/watch?v=jGOE8q1mH3M)（中文字幕）
 
@@ -116,7 +111,7 @@ Google IO 2018 上的 Session，推荐观看！
 [Daydream Labs: Lessons Learned from VR Prototyping - Google I/O 2016](https://www.youtube.com/watch?v=lGUmTQgbiAY)
 
 
-## 播客 Podcasts
+## Podcasts
 
 [从二维到三维，VR/AR 产品设计要怎么做？(推荐) - Google Daydream 张晶华](http://music.163.com/#/program?id=909174607)
 
@@ -125,7 +120,7 @@ Google IO 2018 上的 Session，推荐观看！
 [VR、AR 的一百种可能性 - Google Daydream 张晶华](http://music.163.com/#/program?id=909031320)
 
 
-## 讲演 Slides
+## Slides
 
 [Designing for Wearables](https://www.slideshare.net/slideshow/embed_code/key/pW6w6e3yBJ3WzK)
 
@@ -143,6 +138,6 @@ Google IO 2018 上的 Session，推荐观看！
 
 
 
-## 其他文章 Others
+## Others
 
-[ARKit and ARCore will not usher massive adoption of mobile AR - Ori Inbar](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad) ([中文翻译](https://zhuanlan.zhihu.com/p/31554868))
+[ARKit and ARCore will not usher massive adoption of mobile AR - Ori Inbar](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad)

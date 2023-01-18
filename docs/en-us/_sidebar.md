@@ -3,23 +3,22 @@
 
 - AR WIKI ✏️
  - [Basics of AR](intro-ar)
- - [Resources & Docs](resources)
+ - [Guides & Resources](resources)
  - [AR Devices](devices)
  - [HoloLens](hololens)
  - [AR Apps](apps)
- - [AR Develope Kit](dev)
+ - [AR Develop Kit](dev)
  - [Tools](tools)
 
 - EXTENDED 🚀
  - [Metaverse](metaverse)
- - [Arts](art)
- - [Genius](genius)
+ - [AR in Art](art)
+ - [Genius & Teams](genius)
  - [Conference](conference)
  - [Press](press)
 
 - MORE 💡
  - [About](about)
- - [Donate](donate)
- - [Thx](thx)
- 
+ - [Buy me a coffee](donate)
+ - [Thanks](thx)
  

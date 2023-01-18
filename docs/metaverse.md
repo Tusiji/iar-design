@@ -1,4 +1,4 @@
-# 元宇宙 Metaverse
+# 元宇宙
 
 > 本页内容仍在建设中 / Under Construction
 
@@ -30,7 +30,7 @@
 
 [ANA SKY WHALE](https://www.anahd.co.jp/group/en/pr/202105/20210520.html)
 
-## 大空间数字孪生 Space Digital Twins 
+## 大空间数字孪生
 
 [Plateau](https://www.mlit.go.jp/plateau/)
 
@@ -40,7 +40,7 @@
 
 [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/#overview)
 
-## 虚拟形象&数字人 Avatar & Digital Human
+## 虚拟形象&数字人
 
 [Ready Player Me](https://readyplayer.me/developers)
 
@@ -52,7 +52,7 @@
 
 [avatarsdk](https://avatarsdk.com/avatars/)
 
-## 云渲染 Cloud Rendering
+## 云渲染
 
 [Azure 远程渲染 Remote Rendering](https://azure.microsoft.com/zh-cn/services/remote-rendering/#overview)
 

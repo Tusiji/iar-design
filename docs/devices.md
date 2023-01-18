@@ -1,8 +1,8 @@
-# AR 硬件产品 AR Hardwares
+# AR 硬件产品
 主要以 AR 智能眼镜为主，同时也有一些与人机交互相关的硬件。
 
 
-## 双目智能眼镜/头盔 Glasses & HMD
+## 双目智能眼镜/头盔
 
 [HoloLens](https://www.microsoft.com/microsoft-hololens/en-us)
 
@@ -193,7 +193,7 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 TCL 在 CES2022 上发布的产品。
 
 
-## AR 盒子 AR Cardboard
+## AR 盒子
 
 [HoloKit](https://holokit.io/)
 
@@ -222,7 +222,7 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 
 [佳能 MREAL S1 Special Site](https://www.canon-its.co.jp/files/user/solution/mr/lp/)
 
-## 智能眼镜 Smart Glasses
+## 智能眼镜
 
 这些产品没有配备显示屏，所以单独整理为智能眼镜。
 
@@ -243,7 +243,7 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 集成了自家的 Alexa 语音助手。
 
 
-## TOF手机（移动设备）Mobile Devices with TOF Sensor
+## TOF手机（移动设备）
 
 [Google Project Tango(已被 Google 放弃)](https://get.google.com/tango/)
 
@@ -266,7 +266,7 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Go
 终于搭载了雷达传感器。
 
 
-## 智能投影仪 Smart Projector
+## 智能投影仪
 
 [MIT Sixth Sense](http://www.pranavmistry.com/projects/sixthsense/)
 
@@ -289,15 +289,14 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 [深光科技](https://www.alight-tech.cn/#/)
 
 
-
-## 车载 HUD  Car HUD
+## 车载 HUD
 
 [WayRay Navion](https://wayray.com/navion)
 
 车载式的投影装置，将导航信息等投射在前挡风玻璃。
 
 
-## 交互硬件 Interaction Hardware
+## 交互硬件
 
 [Leap Motion](https://www.leapmotion.com/)
 
@@ -329,13 +328,13 @@ Sony 在 SIGGRAPH 2019展会上展出的一款圆柱型透明式全息显示屏�
 [Intel RealSense](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/realsense-overview.html)
 
 
-## 展示装置 Display
+## 展示装置
 
 [Adobe Project Glasswing](https://www.youtube.com/watch?v=0_Pkbz4eAV8)
 
 [Sony ELF-SR1 Spatial Reality Display](https://electronics.sony.com/more/spatial-reality-display/p/elfsr1)
 
-## AR眼镜光学 Optical
+## AR眼镜光学
 
 [Lumus](http://lumusvision.com/)
 

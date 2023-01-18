@@ -1,10 +1,10 @@
-# 数字艺术 Art
+# AR与艺术
 
 很多游戏、影视作品的背景设定都是在科技发达的视觉，这也使得很多作品中都会有 AR 效果，比如《钢铁侠》中 Tony 的战衣（头盔）。这些充满科技感的特效也许能为你的设计工作带来灵感。
 
 PS：因为内容实在太多，兔斯霁随机挑选了一些。
 
-## 艺术创意 Arts
+## 艺术创意
 [Apple「AR」T](https://www.apple.com/cn/today/feature/augmentedrealities/)
 
 Today at Apple 的新课程，介绍 AR 在艺术创意领域的应用。 兔斯霁也前往 Apple Store 参与了课程并[分享体验](https://zhuanlan.zhihu.com/p/80493387)。
@@ -12,7 +12,7 @@ Today at Apple 的新课程，介绍 AR 在艺术创意领域的应用。 兔斯
 [Adobe AR Residency](https://www.adobe.com/about-adobe/ar-residency.html)
 
 
-## 游戏 Games
+## 游戏
 
 [levelHead](https://julianoliver.com/levelhead/)
 
@@ -67,7 +67,7 @@ Sony 在发布次世代主机 PS4 时预装的一款游戏，多个 AR 游戏的
 人称“年货”的《使命召唤》在结束了现代战争之后，将游戏设定转变为了未来世界，各种酷炫的特效。
 
 
-## 电影与电视 Movies
+## 影视作品
 
 [黑镜](https://movie.douban.com/subject/7054120/)
 

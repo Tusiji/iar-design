@@ -1,7 +1,7 @@
-# AR 开发与解决方案
+# AR R Develop Kit
 AR 应用的开发，可以很难，也可以很简单。目前，市面上也已经有很多 AR SDK，即使你不具备编程能力，也可以开发简单的 AR 应用。
 
-## 通用 AR SDK / 开发平台 
+## AR SDK
 
 [ARToolKit](https://artoolkit.org/)
 
@@ -56,7 +56,7 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 [京东 AR 开放平台](https://ar.jd.com/)
 
 
-## LBS AR 平台
+## LBS AR
 
 [ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
 
@@ -68,7 +68,7 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 
 [Niantic Lightship](https://lightship.dev/)
 
-## 人脸特效 SDK
+## Face Effects SDK
 
 [MODIFACE](http://modiface.com/)
 
@@ -80,7 +80,7 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
  
  提供美妆类 AR 解决方案。
 
-## 肢体 SDK
+## Body SDK
 
 [Vyking](https://www.vyking.io/index_cn.html)
 
@@ -98,19 +98,13 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 2022年，8th Wall 团队正式加入 Niantic！
 
 
-## AR 内容平台
+## AR Contents Platform
 
 [echoAR](https://docs.echo3d.co/)
 
 
-## 业内标准
+## Standard
 
 [OpenXR](https://www.khronos.org/openxr)
 
 >OpenXR是由科纳斯组织（Khronos Group）管理的一个工作组，旨在设计一个面向虚拟现实（VR）和增强现实（AR）的标准。
-
-
-## AR 开发入门教程
-兔斯霁将以 HiAR SDK 为例，手把手教你开发一个非常简单的 AR 应用。
-
-对不起，兔斯霁挖了坑一直没填上，所以向大家推荐来自网友 ChungYun Lee 的教程。[前往B站浏览](http://www.bilibili.com/video/av10976373/)

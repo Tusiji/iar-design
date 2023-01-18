@@ -10,11 +10,11 @@
 <br>
 
 
-?> [学习 AR 基础知识](/intro-ar)
+?> [学习 AR 基础知识](intro-ar)
 
-?> [浏览 AR 设计资源](/resources) 
+?> [浏览 AR 设计资源](resources) 
 
-?> [了解 AR 眼镜及相关硬件](/devices)
+?> [了解 AR 眼镜及相关硬件](devices)
 
 <br>
 

@@ -1,6 +1,6 @@
-# 工具与资源 Tools
+# Tools
 
-## 内容创作平台（AR编辑器） AR Creator 
+## AR Creator 
 
 [Vuforia Studio](https://www.ptc.com/en/products/augmented-reality/vuforia-studio)
 
@@ -31,7 +31,7 @@ Apple 在 WWDC2019 上发布的入门的 AR 内容制作工具，支持 Mac 和 
 当年算是最早的AR厂商之一。
 
 
-## 软件工具 
+## 软件工具
 
 [WebVR Studio](http://webvrstudio.com/)
 
@@ -54,7 +54,7 @@ Apple 在 WWDC2019 上发布的入门的 AR 内容制作工具，支持 Mac 和 
 摄像机反求，同样应用于视频制作领域。
 
 
-## 原型设计制作 Prototype
+## AR Prototype
 
 
 [MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
@@ -74,7 +74,7 @@ Google Daydream 团队推出的设计模版（Sketch），配合[视频](https:/
 Facebook 推出的 VR 原型设计模板，包含 Sketch+PSD 文档以及一个 Unity3D 工程。
 
 
-## 场景重建 Scanner app
+## Scanner app
 
 [3d Scanner App]()
 

@@ -1,9 +1,9 @@
-# AR 软件与应用 AR Apps
+# AR 软件与应用
 
 看看别人在用 AR 做什么。🤔
 
 
-## AR 导航导览 AR Navigation
+## AR 导航导览
 [商汤 SenseMARS 平台](#)
 
 案例：[西湖AR导航导览](https://mp.weixin.qq.com/s/KGftgrBm6dKjuVnD6_C_XA)
@@ -30,7 +30,7 @@
 20年9月对外公开，后续会直接搭载在车机上而非腾讯地图。
 
 
-## 巡检维修 Industry
+## 巡检维修
 
 这些产品一般面向商用客户，以重工业为主。
 
@@ -55,7 +55,7 @@
 联想的企业 AR 服务平台，全称 Augmented Human Cloud，包含远程协作、工作流指定、3D展示、识别等模块。联想在 AWE 2017 与 Wikitude 上达成了近一步的合作。
 
 
-## 远程协作 Remote Expert
+## 远程协作
 
 这类产品是目前 AR 设备中经常被拿来背书的功能。
 
@@ -90,7 +90,7 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 AR远程手术指导平台.
 
 
-## 艺术&创意 Creative
+## 艺术&创意
 
 [Adobe Project Aero](https://www.adobe.com/products/projectaero.html)
 
@@ -104,7 +104,7 @@ AR音乐合成器
 
 
 
-## 互动营销 E-Commerce
+## 互动营销
 
 [支付宝 AR 平台](https://render.alipay.com/p/s/real/index)
 
@@ -120,7 +120,7 @@ Apple Pay 在纽约地铁推广交通卡功能时提供的一个 AR 体验。
 
 
 
-## 社交&摄影 Social Network
+## 社交&摄影
 
 [Snapchat](https://www.snapchat.com/)
 
@@ -151,13 +151,13 @@ Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以�
 一款来自日本的 app，可以抠取纸上绘制的图形并3D化，并结合其他互动效果
 
 
-## 实体玩具 Toy
+## 实体玩具
 
 [乐高 Vidiyo 系列](https://cn.engadget.com/lego-vidiyo-sets-announced-010049298.html)
 
 
 
-## 教育类 Education
+## 教育类
 
 [Elements 4D](https://www.kickstarter.com/projects/daqri/elements-4d-interactive-blocks/posts)
 
@@ -165,12 +165,12 @@ Google Pixel 相机中自带的 AR 贴纸功能，结合 ARCore 技术，可以�
 
 [wonderscope](https://wonderscope.com/)
 
-## 医疗 Medical
+## 医疗
 
 [MediView](https://mediview.com/)
 
 
-## 试验性项目 Demo
+## 试验性项目
 [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/)
 
 2020年5月，开始支持 HoloLens2了。

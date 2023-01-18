@@ -1,25 +1,25 @@
-- 开始 GET STARTED 🚀
- - [欢迎 Hello]()
+- 欢迎 GET STARTED 👋
+ - [立即开始]()
 
 - AR 学习资源 WIKI ✏️
- - [AR 基础知识 Basics](/intro-ar)
- - [文档资源 Resources](/resources)
- - [AR 硬件产品 Devices](/devices)
+ - [AR 基础知识 ](intro-ar)
+ - [文档资源](/resources)
+ - [AR 硬件产品](/devices)
  - [HoloLens](/hololens)
- - [AR 软件与应用 Apps](/apps)
- - [AR 开发 Development](/dev)
- - [工具 Tools](/tools)
+ - [AR 应用](/apps)
+ - [AR 开发](/dev)
+ - [工具](/tools)
 
-- AR 扩展信息 EXTENDED 📦
- - [元宇宙 Metaverse](/metaverse)
- - [数字艺术 Arts](/art)
- - [人物与团队 Genius](/genius)
- - [会议与组织 Conference](/conference)
- - [新闻媒体 Press](/press)
+- AR 扩展信息 🚀
+ - [元宇宙](/metaverse)
+ - [数字艺术](/art)
+ - [人物与团队(/genius)
+ - [会议与组织](/conference)
+ - [新闻媒体(/press)
 
-- 更多 MORE 💡
- - [关于本站 About](/about)
- - [捐赠咖啡 Donate](/donate)
- - [感谢 Thx](/thx)
+- 更多 💡
+ - [关于本站](/about)
+ - [捐赠咖啡](/donate)
+ - [感谢](/thx)
  
  
