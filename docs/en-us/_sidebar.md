@@ -1,4 +1,4 @@
-- Hello 👋
+- HELLO 👋
  - [Getting Started]()
 
 - AR WIKI ✏️

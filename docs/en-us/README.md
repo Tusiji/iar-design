@@ -2,7 +2,7 @@
 
 > Under Construction
 
-![](/assets/logo_branding.png)
+![](../assets/logo_branding.png)
 
 
 “iAR Design”是一个 AR 资源共享空间，也是一本帮助你入门 AR 的 Handbook。
