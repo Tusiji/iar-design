@@ -3,11 +3,11 @@
 ## Academic Conference 
 [ISMAR](http://www.ismar.net/)
 
-全称 International Symposium on Mixed and Augmented Reality。这是 [ISMAR 2017](http://www.ismar2017.org/) 的会议介绍。
+International Symposium on Mixed and Augmented Reality.  This is the conference presentation for [ISMAR 2017](http://www.ismar2017.org/).
 
 [AWE](http://www.augmentedworldexpo.com/)
 
-全称 Augmented World Expo，国内也办过。在业内还是蛮重要的会议，每年举办时建议多关注。
+Augmented World Expo, still an important conference in the industry.
 
 [SIGGRAPH](https://www.siggraph.org/)
 
@@ -17,21 +17,20 @@
 
 [insideAR](https://en.wikipedia.org/wiki/InsideAR)
 
-此会议貌似已经取消了。
+This conference seems to have been canceled.
 
 [VALSE](http://valser.org/)
 
 
 ## Dev Conference
 
-几家互联网巨头每年的发布会，都会有 AR 相关的内容，建议关注：
+The Internet giants will feature AR-related content at their annual conferences.
 - Apple WWDC
-- Facebook Connect（Facebook 改名 Meta 后估计后续有很大动作）
+- Facebook Connect (Facebook re-names itself Meta)
 - Google IO
 - Microsoft Build
 
-兔斯霁也为大家进行了整理:
-
+I have organized the content here:(Chinese)
 - [2022Q1Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/546024760)
 - [2021Q1Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/413532345)
 - [2020Q2 开发者大会 AR 信息汇总](https://zhuanlan.zhihu.com/p/158683385)

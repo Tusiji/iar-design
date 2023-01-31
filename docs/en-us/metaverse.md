@@ -4,7 +4,7 @@
 
 
 ## NFT
-[《NFT101》系列](https://nft101.lfgkids.com/)
+[《NFT101》](https://nft101.lfgkids.com/)
 
 ## Social Network & Collaboration Services
 
@@ -32,8 +32,6 @@
 
 [Plateau](https://www.mlit.go.jp/plateau/)
 
-日本政府的3D数字城市项目
-
 [51World](https://www.51aes.com/)
 
 [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/#overview)
@@ -42,20 +40,20 @@
 
 [Ready Player Me](https://readyplayer.me/developers)
 
-[相芯科技 Faceunity](https://www.faceunity.com/avatarx.html)
+[aceunity](https://www.faceunity.com/avatarx.html)
 
-[即构 ZEGO](https://www.zego.im/product/avatar)
+[ZEGO](https://www.zego.im/product/avatar)
 
-[来画 Laihua](https://www.laihua.com/meta)
+[Laihua](https://www.laihua.com/meta)
 
 [avatarsdk](https://avatarsdk.com/avatars/)
 
 ## Cloud Rendering
 
-[Azure 远程渲染 Remote Rendering](https://azure.microsoft.com/zh-cn/services/remote-rendering/#overview)
+[Azure Remote Rendering](https://azure.microsoft.com/zh-cn/services/remote-rendering/#overview)
 
-## 现象级产品
+## Phenomenal products
 
-[Roblox]()
+[Roblox](https://www.roblox.com/)
 
-[Play Together]()
+[Play Together](https://play.google.com/store/apps/details?id=com.haegin.playtogether&hl=en_US&gl=US)

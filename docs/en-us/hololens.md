@@ -2,9 +2,9 @@
 
 ## Official Guide
 
-[HoloLens 设计文档（推荐）](https://developer.microsoft.com/en-us/windows/holographic/design)
+[HoloLens Design Guide](https://developer.microsoft.com/en-us/windows/holographic/design)
 
-[Microsoft UWP 官方设计指南](https://developer.microsoft.com/en-us/windows/apps/design)
+[Microsoft UWP Design Guide](https://developer.microsoft.com/en-us/windows/apps/design)
 
 [Mixed Reality Toolkit](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
 

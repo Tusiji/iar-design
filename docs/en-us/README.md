@@ -5,9 +5,9 @@
 ![](../assets/logo_branding.png)
 
 
-“iAR Design”是一个 AR 资源共享空间，也是一本帮助你入门 AR 的 Handbook。
+iAR Design is a wiki of AR design resources to help you get started with Augmented Reality.
 
-这里的内容侧重于 AR 产品设计，也包括 AR 硬件产品介绍、AR 技术知识普及、AR 产品应用分享，同时也会涉及 VR、人机交互、智能硬件等内容。
+We focus on AR design, AR hardware, AR technology, AR application, and also include VR/XR, smart interaction hardware.
 
 <br>
 
@@ -21,7 +21,7 @@
 <br>
 
 💡Tips：
-- **使用手机访问的朋友可以点击左下角「菜单按钮」查看目录。**
+- **If accessing from your mobile phone, click the "Menu" button at the bottom left to view the directory.**
 - 如果你喜欢本站内容，可[点击这里](donate)赞助我一杯咖啡☕️，让我在咖啡店里多写一会儿。
 
 

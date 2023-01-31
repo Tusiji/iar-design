@@ -170,7 +170,7 @@ Google Glass Enterprise Edition 终于也出到第二代了，在硬件上也有
 
 [North Focals](https://www.bynorth.com/focals)
 
-这款单目设备的光学成像方式比较特殊，直接在镜片上投影；后来还买了 Intel Vaunt AR 眼镜的相关技术。在20年7月份，确认已经被 Google 受够了，估计是为了补足 Google Glass 吧。
+这款单目设备的光学成像方式比较特殊，直接在镜片上投影；后来还买了 Intel Vaunt AR 眼镜的相关技术。在20年7月份，确认已经被 Google 收购了，估计是为了补足 Google Glass 吧。
 
 [MAD Gaze](http://madgaze.com/)
 
@@ -212,7 +212,7 @@ VR 有 Cardboard，AR 有 HoloKit，同样都是基于纸板与手机；目前�
 联想结合《星球大战》IP 出了一套“高级版”AR 盒子，配套有控制装置（光剑）和定位跟踪的外设。而后在19年9月，又推出了「漫威英雄次元」的套装。（为什么说它是 AR 盒子？因为它必须依靠手机进行显示和运算）
 
 
-## 非光学透过式 AR 头盔
+## 视频透过式头盔
 
 PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界的画面然后显示到屏幕上。
 
@@ -221,6 +221,10 @@ PS：这类设备更像是 VR 设备，只不过是通过摄像头采集外界�
 近期被 Apple 收购了。
 
 [佳能 MREAL S1 Special Site](https://www.canon-its.co.jp/files/user/solution/mr/lp/)
+
+[Meta Quest Pro](https://www.meta.com/quest/quest-pro/)
+
+[PICO 4](https://www.picoxr.com/cn/products/pico4)
 
 ## 智能眼镜
 
@@ -261,7 +265,7 @@ Tango 设备带有专门的传感器摄像头，SLAM 做得也不错。不过 Go
 
 这并不是具体的一款设备，而是高通基于自己的硬件平台推出一整套 XR 方案。像 Nreal、Rokid 都是这个方案下的产物。
 
-[iPad Pro](#)
+[iPad Pro](https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/)
 
 终于搭载了雷达传感器。
 

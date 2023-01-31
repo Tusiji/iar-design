@@ -1,22 +1,22 @@
 # About
 
-## Goal
-我是[兔斯霁](https://www.zhihu.com/people/tusiji)，交互设计师，工作到现在一直在 AR 这个领域摸爬滚打，参与负责过不少 AR 软硬件产品的设计工作。
+## Intention
+I'm [Panos](https://www.linkedin.com/in/tusiji/), a UX designer working in the AR field. I've been involved in the design of many AR hardware and software products.
 
-在多年的工作中，我查阅浏览了不少 AR 相关的产品和设计学习资源，最开始在[知乎专栏](https://zhuanlan.zhihu.com/mylcl)中分享过。为了更好地阅读体验并持续更新，我决定自建站点来维护这些内容，这也是建立 iAR Design 的初衷。希望这里的内容能对大家有所帮助。谢谢🙏
+Over the years, I've browsed a lot of AR products and design resources, which I first shared on [Zhihu](https://zhuanlan.zhihu.com/mylcl). For a better reading experience and to keep updates, I decided to build my own site to share them. This is the original intention of building iAR Design. I hope it will be useful for everyone. Thank you 🙏!
 
 ## Site Name
-iAR Design 原名为 AR Design Club，由于2019年8月23日变更域名（iar.design）而改名。
+Previously known as AR Design Club, iAR Design changed its name through a domain name change (iar.design) on August 23, 2019.
 
 ## Feedback
-若你发现文章内容有疏漏，或是想为 iAR Design 提供新的内容，可直接在 GitHub 上[提交 Issue](https://github.com/Tusiji/iar-design/issues) 。
+If you'd like to contribute new content to iAR Design, you can [submit an issue](https://github.com/Tusiji/iar-design/issues) directly on GitHub.
 
 ## Copyright
-- 欢迎转载分享本站内容给更多人，同时希望能够在转载时备注本站链接。
-- 若有内容侵犯到你的权益，请联系兔斯霁。
+- Please feel free to share this site with others, and we hope you will include a link to this site when you share it.
+- Please feel free to contact me with any questions.
 
 ## Keep in Touch
 - Gmail: lang7779698@gmail.com
-- Twitter: [TusijiLCL](https://twitter.com/TusijiLCL)
+- Twitter: Panos 兔斯霁 [@TusijiLCL](https://twitter.com/TusijiLCL)
 
-Made with ❤️ by Tusiji🐰
+Made with ❤️ by Panos🐰

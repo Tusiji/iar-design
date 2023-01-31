@@ -1,45 +1,45 @@
-# AR R Develop Kit
-AR 应用的开发，可以很难，也可以很简单。目前，市面上也已经有很多 AR SDK，即使你不具备编程能力，也可以开发简单的 AR 应用。
+# AR Develop Kit
+Developing an AR application can be difficult or easy. There are already many AR SDKs available, so you can develop simple AR applications even if you don't have any programming skills.
 
 ## AR SDK
 
 [ARToolKit](https://artoolkit.org/)
 
-大名鼎鼎的 ARToolKit，可是说是 AR 技术在移动平台的鼻祖。
+The famous ARToolKit is the originator of AR technology on mobile platforms.
 
 [Vuforia](https://developer.vuforia.com/)
 
-可能是最流行的 AR SDK，早前属于高通旗下，现在已经被 PTC 收购。
+Probably the most popular AR SDK, which was formerly part of Qualcomm, has been acquired by PTC.
 
 [Apple ARKit](https://developer.apple.com/arkit/)
 
-Apple 在 WWDC2017 上发布了面向 iOS 设备的 AR 开发工具，具备快速稳定的运动定位、平面和边界的估计等功能。以前的同事第一时间写了一篇简单的评价，[点击这里](https://www.zhihu.com/question/60726864/answer/179446682)查看。
+The AR development tool for iOS devices, released by Apple at WWDC2017. Here's a review from my former colleague.[Click Here](https://www.zhihu.com/question/60726864/answer/179446682)
 
 [Google ARCore](https://developers.google.com/ar/)
 
-Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基本对飙 ARKit。（Google Tango 表示尴尬了）
+Google has launched a new AR development tool for Android devices that competes with ARKit.（Google Tango RIP😭）
 
-[商汤 SenseAR 平台](https://openar.sensetime.com/)
+[SenseTime SenseAR](https://openar.sensetime.com/)
 
-[商汤 SenseMARS 火星混合现实平台](https://www.sensetime.com/cn/product-business?categoryId=80)
+[SenseTime SenseMARS](https://www.sensetime.com/cn/product-business?categoryId=80)
 
 [HiAR SDK](https://www.hiscene.com/sdk/)
 
-国内技术团队[亮风台](http://www.hiscene.com)发布的 AR SDK，中文化支持和文档。目前亮风台已经全面转向 AR 硬件方向，故 SDK 已经不再对外公开。
+HiAR is now fully focused on AR glasses, so the SDK is no longer available to the public.
 
-[Sony Smart AR(日语)](http://www.sonydna.com/sdna/solution/SmartAR_SDK.html)
+[Sony Smart AR (Japanese)](http://www.sonydna.com/sdna/solution/SmartAR_SDK.html)
 
-也凉凉啦，哎！「2019年3月31日をもちまして、"SmartAR® SDK" の販売を終了いたします。」
+Service Shutdown「2019年3月31日をもちまして、"SmartAR® SDK" の販売を終了いたします。」
 
-索尼大法的 AR SDK，早在2012年就对外发布过演示，而这些技术基本都用在了自家的产品中。直到2016年才正式对外发布 AR SDK。
+Sony's AR SDK, which was demonstrated in 2012, was mainly used for their own products. It wasn't officially released to the public until 2016.
 
-[网易洞见 SDK](https://dongjian.163.com/)
+[NetEase Insight SDK](https://dongjian.163.com/)
 
 [Niantic Lightship](https://lightship.dev/)
 
-[腾讯 AR 开放平台](http://tar.qq.com/)
+[Tencent AR](http://tar.qq.com/)
 
-[Baidu AR 平台](http://ar.baidu.com/)
+[Baidu AR](http://ar.baidu.com/)
 
 [Wikitude](http://www.wikitude.com/)
 
@@ -53,18 +53,17 @@ Google 也为普通 Android 设备推出了新的 AR 开发工具，功能上基
 
 [太虚 AR SDK](https://www.voidar.net/)
 
-[京东 AR 开放平台](https://ar.jd.com/)
-
+[JD AR](https://ar.jd.com/)
 
 ## LBS AR
 
 [ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
 
-在 Google IO 2022 上新推出的新功能，
+New feature introduced at Google IO 2022.
 
-[Google Maps Platform 实景游戏解决方案](https://cloud.google.com/maps-platform/gaming)
+[Google Maps Platform AR Live Gaming](https://cloud.google.com/maps-platform/gaming)
 
-Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真实的地图数据进行创作、开发AR游戏等。（AR下个目标就是增强世界了WOW👍）
+Announced in June 2020, Google Map's AR Live Gaming Solution allows creating AR games based on real maps.
 
 [Niantic Lightship](https://lightship.dev/)
 
@@ -72,19 +71,18 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 
 [MODIFACE](http://modiface.com/)
 
-看名称也能猜到，它专为美妆品牌提供人脸 AR 技术
+As its name suggests, it is a specialist provider of face AR technology for beauty brands.
 
 [FaceUnity](https://www.faceunity.com)
 
-[Perfect 完美移动](https://www.perfectcorp.com/)
- 
- 提供美妆类 AR 解决方案。
+[Perfect](https://www.perfectcorp.com/)
+
 
 ## Body SDK
 
 [Vyking](https://www.vyking.io/index_cn.html)
 
-聚焦与脚步的识别检测跟踪，主要用于AR球鞋试穿。
+Focused on foot detection&tracking, mainly used for AR sneaker fitting.
 
 
 ## Web AR
@@ -95,7 +93,7 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 
 [8th Wall](https://www.8thwall.com/)
 
-2022年，8th Wall 团队正式加入 Niantic！
+In 2022, the 8th Wall team joins Niantic!
 
 
 ## AR Contents Platform
@@ -107,4 +105,4 @@ Google Map 在2020年6月份公布了实景游戏解决方案，可以基于真�
 
 [OpenXR](https://www.khronos.org/openxr)
 
->OpenXR是由科纳斯组织（Khronos Group）管理的一个工作组，旨在设计一个面向虚拟现实（VR）和增强现实（AR）的标准。
+>OpenXR is an open, royalty-free standard for access to virtual reality and augmented reality platforms and devices.[3] It is developed by a working group managed by the Khronos Group consortium. 
