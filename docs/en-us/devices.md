@@ -210,13 +210,11 @@ Apple unveils new iPad Pro with breakthrough LiDAR Scanner.
 [uSens Fingo](https://en.usens.com/products/fingo/)
 
 
-## 场景重建/3D 扫描硬件 
+## 3D Scaning Hardware
 
 [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
 
 [Azure Kinect DK](https://azure.microsoft.com/en-us/services/kinect-dk/)
-
-伴随 HoloLens 2 同时公布。
 
 [Structure Sensor](https://structure.io/)
 
@@ -229,12 +227,13 @@ Apple unveils new iPad Pro with breakthrough LiDAR Scanner.
 
 [Sony ELF-SR1 Spatial Reality Display](https://electronics.sony.com/more/spatial-reality-display/p/elfsr1)
 
-## Optical
+
+## Optic
 
 [Lumus](http://lumusvision.com/)
 
-[耐德佳](http://nedglass.com/)
+[NED AR](http://nedglass.com/)
 
-[灵犀微光](http://www.lx-ar.com/#/)
+[LINGXI AR](http://www.lx-ar.com/#/)
 
-[珑璟光电](https://www.lochn.com/)
+[Lochn Optics](https://www.lochn.com/)

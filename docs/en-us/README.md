@@ -22,7 +22,7 @@ We focus on AR design, AR hardware, AR technology, AR application, and also incl
 
 💡Tips：
 - **If accessing from your mobile phone, click the "Menu" button at the bottom left to view the directory.**
-- 如果你喜欢本站内容，可[点击这里](donate)赞助我一杯咖啡☕️，让我在咖啡店里多写一会儿。
+- [Sponsor](donate) me a cup of coffee☕️ if you like this site.
 
 
 

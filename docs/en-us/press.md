@@ -1,7 +1,6 @@
 # Press
 
-## Wechat
-Subscriptions
+## Wechat Subscriptions
 - 微软 HoloLens
 - 谷歌开发者
 - 机器之心（ID：almosthuman2014）
