@@ -4,7 +4,7 @@
 - AR 学习资源 ✏️
  - [AR 基础知识 ](intro-ar)
  - [文档资源](resources)
- - [AR 硬件产品](/evices)
+ - [AR 硬件产品](devices)
  - [HoloLens](hololens)
  - [AR 应用](apps)
  - [AR 开发](dev)
