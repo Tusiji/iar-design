@@ -16,7 +16,7 @@
 
 [wiARframe - AR Prototyping](https://www.wiarframe.com/)
 
-[抖音 Effect Creator](https://effect.douyin.com/site/download)
+[Tiktok Effect Creator](https://effect.douyin.com/site/download)
 
 [Apple Reality Composer](https://developer.apple.com/augmented-reality/reality-composer/)
 
