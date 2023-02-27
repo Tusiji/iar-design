@@ -12,17 +12,18 @@ We focus on AR design, AR hardware, AR technology, AR application, and also incl
 <br>
 
 
-?> [学习 AR 基础知识](intro-ar)
+?> [Learn the basics of AR.](intro-ar)
 
-?> [浏览 AR 设计资源](resources) 
+?> [Browse AR design resources.](resources) 
 
-?> [了解 AR 眼镜及相关硬件](devices)
+?> [Learn about AR glasses and related hardware.](devices)
 
 <br>
 
 💡Tips：
 - **If accessing from your mobile phone, click the "Menu" button at the bottom left to view the directory.**
 - [Sponsor](donate) me a cup of coffee☕️ if you like this site.
+- Find us on [Discord](https://discord.gg/BSMTq3Kmas)
 
 
 

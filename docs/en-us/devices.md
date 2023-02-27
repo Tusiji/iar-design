@@ -88,6 +88,10 @@ Slim, lightweight binocular smart glasses.
 
 [LEINIAO Air](https://item.jd.com/10049299071589.html)
 
+[Xiaomi Wireless AR Glasses Exploration](https://mp.weixin.qq.com/s/a2f3SfgxLbmr4iqCtcc1Xg)
+
+The latest wireless AR glasses exploration edition from Xiaomi is impressive for daring to use wireless transmission, as the synchronization of the glasses body and computing unit is particularly demanding in terms of latency. The entire machine weighs 126g, which is destined to be worn for only a short time and cannot be worn stably. After all, wireless transmission requires additional batteries, and the optical solution selected further increases the weight. The last time I heard about separate wireless transmission was a few years ago with the iPhone X and Apple Glasses.
+
 
 ## AR Glass
 

@@ -17,6 +17,7 @@ iAR Design 原名为 AR Design Club，由于2019年8月23日变更域名（iar.d
 
 ## 联系方式
 - Gmail: lang7779698@gmail.com
-- Twitter: [TusijiLCL](https://twitter.com/TusijiLCL)
+- Twitter: Panos 兔斯霁 [@TusijiLCL](https://twitter.com/TusijiLCL)
+- 欢迎加入我们的 [Discord 服务器](https://discord.gg/BSMTq3Kmas)
 
 Made with ❤️ by Tusiji🐰

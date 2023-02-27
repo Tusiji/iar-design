@@ -18,5 +18,6 @@ If you'd like to contribute new content to iAR Design, you can [submit an issue]
 ## Keep in Touch
 - Gmail: lang7779698@gmail.com
 - Twitter: Panos 兔斯霁 [@TusijiLCL](https://twitter.com/TusijiLCL)
+- Find us on [Discord](https://discord.gg/BSMTq3Kmas)
 
 Made with ❤️ by Panos🐰
