@@ -1,7 +1,5 @@
 # Getting Started
 
-> Under Construction
-
 ![](../assets/logo_branding.png)
 
 
@@ -16,7 +14,7 @@ We focus on AR design, AR hardware, AR technology, AR application, and also incl
 
 ?> [Browse AR design resources.](resources) 
 
-?> [Learn about AR glasses and related hardware.](devices)
+?> [Learn about AR glasses and hardwares.](devices)
 
 <br>
 
