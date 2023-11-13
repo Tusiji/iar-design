@@ -8,6 +8,9 @@
 
 案例：[西湖AR导航导览](https://mp.weixin.qq.com/s/KGftgrBm6dKjuVnD6_C_XA)
 
+[Apple 地图](https://www.apple.com.cn/newsroom/2021/06/ios-15-brings-powerful-new-features-to-stay-connected-focus-explore-and-more/)
+
+伴随iOS15的发布，地图 app 提供了增强现实步行导航。
 
 [华为河图](https://consumer.huawei.com/cn/press/news/2019/huawei-cyberverse-a-new-world/)
 
@@ -34,7 +37,7 @@
 
 这些产品一般面向商用客户，以重工业为主。
 
-[HiLeia](http://hileia.com)
+[HiLeia](https://hiar.com/product/hileia)
 
 亮风台发布的远程协作产品。
 
@@ -89,6 +92,10 @@ Skype 在 HoloLens 上的版本，除了基础的音视频通话功能之外，�
 
 AR远程手术指导平台.
 
+[Jig Space](https://www.jig.space/)
+
+3D演示创作平台
+
 
 ## 艺术&创意
 
@@ -96,7 +103,7 @@ AR远程手术指导平台.
 
 [MarK AR](http://mark.app)
 
-iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦场景跟 AR 结合还是比较顺理成章的。不过目前只有 Android 版本，同时也受到疫情影响而暂停了项目。
+iDreamSky 和 Sybo 合作开发的AR社交应用，涂鸦场景跟 AR 结合还是比较顺理成章的。
 
 [Google AR Synth](https://artsandculture.google.com/story/7AUBadCIL5Tnow)
 

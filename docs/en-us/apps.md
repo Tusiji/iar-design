@@ -8,6 +8,10 @@ Take a look at what others are doing with AR.🤔
 
 Case:[AR Navi for West Lake](https://mp.weixin.qq.com/s/KGftgrBm6dKjuVnD6_C_XA)
 
+[Apple 地图](https://www.apple.com/newsroom/2021/06/ios-15-brings-powerful-new-features-to-stay-connected-focus-explore-and-more/)
+
+With the release of iOS 15, the Maps app now offers augmented reality walking navigation.
+
 [Huawei Cyberverse](https://consumer.huawei.com/cn/press/news/2019/huawei-cyberverse-a-new-world/)
 
 After the announcement in August '19, a public beta version was released in 2020 with the P40 smartphone, enabling AR content browsing and AR navigation in designated outdoor areas. The first supported locations are the East Nanjing Road Pedestrian Street and the Bund in Shanghai, and the Mogao Caves in Dunhuang.
@@ -27,7 +31,7 @@ Case:[Indoor AR Navi by DuMix AR](https://dy.163.com/v2/article/detail/FCMGT9T20
 
 These products are generally targeted at commercial customers, primarily in heavy industry.
 
-[HiLeia](http://hileia.com)
+[HiLeia](https://hiar.com/product/hileia)
 
 [Atheer](http://www.atheerair.com/)
 
@@ -62,6 +66,7 @@ These products are generally targeted at commercial customers, primarily in heav
 
 [Proximie](https://proximie.com/)
 
+[Jig Space](https://www.jig.space/)
 
 ## Creative
 
